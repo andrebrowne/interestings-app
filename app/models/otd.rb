@@ -1,0 +1,2 @@
+class Otd < ApplicationRecord
+end

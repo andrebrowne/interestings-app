@@ -1,0 +1,7 @@
+<p id="notice"><%= notice %></p>
+
+<h1><%= @wiki_fact.title %> Interesting Facts:</h1>
+
+<% @wiki_events.each do |event|%>
+  <p> <%= event %> </p>
+<% end %>

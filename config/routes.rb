@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  root 'tests#index'
-  resources :tests
+  root 'otds#index'
+  resources :otds
   
 end
