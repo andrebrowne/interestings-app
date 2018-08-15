@@ -19,11 +19,31 @@ class OtdsController < ApplicationController
       "== External links ==" => []
     }
 
+    bad_words = [
+      "die",
+      "dies",
+      "died",
+      "kill",
+      "kills",
+      "killed",
+      "murder",
+      "murders",
+      "murdered"
+    ]
+
+    bad_words_regex = / #{bad_words.join(" | ")} /
+
     current_section = nil
     @wiki_events.each do |event|
       if event.strip.length.zero?
         next
       end
+
+      if bad_words_regex.match?(event)
+        puts "I just found a bad event in #{event}"
+        next
+      end
+
       if event.strip.start_with?('==')
         current_section = event.strip
         next
