@@ -1,7 +1,20 @@
-<p id="notice"><%= notice %></p>
-
 <h1><%= @wiki_fact.title %> Interesting Facts:</h1>
 
-<% @wiki_events.each do |event|%>
+<%= @wiki_fact.summary%>
+
+<hr/>
+
+<h2> Events </h2>
+<%  @facts_of_the_day_events.each do |event|%>
   <p> <%= event %> </p>
+<% end %>
+
+<h2> Births </h2>
+<%  @facts_of_the_day_births.each do |birth|%>
+  <p> <%= birth %> </p>
+<% end %>
+
+<h2> Holidays and observances </h2>
+<%  @facts_of_the_day_holidays.each do |holiday|%>
+  <p> <%= holiday %> </p>
 <% end %>
