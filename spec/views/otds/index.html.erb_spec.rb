@@ -26,10 +26,14 @@ RSpec.describe "otds/index" do
     it "displays interestings for events, births, holidays and observances" do
         assign(:interestings, Wikipedia.find("August 14"))
         render
+        puts rendered
         expect(rendered).not_to be_empty
-        expect(rendered).to match /\=\= Events \=\=/
-        expect(rendered).to match /\=\= Births \=\=/
-        expect(rendered).to match /\=\= Holidays and observances \=\=/
+        expect(rendered).to match /\<h3\>Events\<\/h3\>/
+        expect(rendered).to match /\<h3\>Births\<\/h3\>/
+        expect(rendered).to match /\<h3\>Holidays\<\/h3\>/
+        # expect(rendered).to include("Events")
+        # expect(rendered).to include ("Births")
+        # expect(rendered).to include ("Holidays and observances")
     end
 
     it "displays each event on new line" do
@@ -40,12 +44,12 @@ RSpec.describe "otds/index" do
         render
         # figure out number of interestings in the array
         num_interestings = convertPageText(wiki_page.text).length
-        puts num_interestings
-        puts rendered.scan(/^.+\<br\/\>$/).count
+        # puts num_interestings
+        # puts rendered.scan(/^.+\<br\/\>$/).count
         # Assert that when you compare number of events to number of line breaks that they are equal
-        expect(rendered.scan(/^.+\<br\/\>$/).count).to eq(num_interestings)
+        expect(rendered.scan(/^.+\<br\/\>$/).count).to eq(21)
         # Assert that each event is followed by a line break
-        puts rendered
+        # puts rendered
         expect(rendered).to match /^\<h.*\>$|^.*\<br\/\>$/
     end
 end

@@ -13,7 +13,7 @@ module WikipediaPageHelper
         converted_text
     end
 
-    def organize_page_content(interestings_data)
+    def organize_page_content(interestings_data, interestings_key)
         result = {}
         cat_key = nil
         interestings_data.each do |i|
@@ -29,7 +29,8 @@ module WikipediaPageHelper
 
             result[cat_key].push(i)
         end
-        result
+        interestings_content = result["== #{interestings_key} =="].sample(7).sort_by { |x| x[/\d+/].to_i }
+        interestings_content
     end
-
 end
+

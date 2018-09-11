@@ -41,48 +41,34 @@ RSpec.describe WikipediaPageHelper, type: :helper do
             res.should_not include wiki_page.summary
         end
 
-        xit "returns nothing if page is empty" do
-        end
+        pending "returns nothing if page is empty" 
     end
 
     describe "#organize_page_content" do
-        it "should return section titles and section value(s)" do
-            # expect organize_page_content() to return a collection of section titles that match to section values
-            # setup the the test assertion
+        it "should return section titles and section value(s) in ascending order" do
+        
             input = [
-                "== Section1 ==",
-                "Section1 - item 1",
-                "Section1 - item 2",
-                "Section1 - item 3",
-                "== Section2 ==",
+                "== Events ==",
+                "3 Section1 - item 3",
+                "1 Section1 - item 1",
+                "2 Section1 - item 2",
+                "== Births ==",
                 "Section2 - item 1",
                 "Section2 - item 2",
                 "Section2 - item 3",
-                "== Section3 ==",
+                "== Holidays ==",
                 "Section3 - item 1",
                 "Section3 - item 2",
                 "Section3 - item 3"
             ]
-            output = {
-                "== Section1 ==" => [ 
-                    "Section1 - item 1",
-                    "Section1 - item 2",
-                    "Section1 - item 3"],
-                "== Section2 =="  => [
-                    "Section2 - item 1",
-                    "Section2 - item 2",
-                    "Section2 - item 3"
-                ],
-                "== Section3 ==" => [
-                    "Section3 - item 1",
-                    "Section3 - item 2",
-                    "Section3 - item 3"
-                ]
-            }
-            # invoke the unit to be tested
-            # validate assertions
-            expect(helper.organize_page_content(input)).to be_an_instance_of(Hash)
-            expect(helper.organize_page_content(input)).to eq(output)
+            output = 
+                [ 
+                    "1 Section1 - item 1",
+                    "2 Section1 - item 2",
+                    "3 Section1 - item 3"]
+         
+            expect(helper.organize_page_content(input,"Events")).to be_an_instance_of(Array)
+            expect(helper.organize_page_content(input,"Events")).to eq(output)
         end
     end
 
