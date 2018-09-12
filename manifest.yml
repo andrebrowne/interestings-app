@@ -1,8 +1,7 @@
 ---
 applications:
-- name: interestingsApp
+- name: interestings-app
   buildpack: ruby_buildpack
-  random-route: true
   memory: 256M
   instances: 1
   path: .
