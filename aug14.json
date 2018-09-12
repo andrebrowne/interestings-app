@@ -1,0 +1,659 @@
+{
+    "continue": {
+        "plcontinue": "1417|0|1385",
+        "tlcontinue": "1417|10|FIS_ski_jumper",
+        "continue": "||info|revisions|extlinks|images|categories|coordinates|extracts|pageimages|langlinks"
+    },
+    "warnings": {
+        "extracts": {
+            "*": "\\\"exlimit\\\" was too large for a whole article extracts request, lowered to 1."
+        },
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/mailman/listinfo/mediawiki-api-announce> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \\\"rvslots\\\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "1417": {
+                "pageid": 1417,
+                "ns": 0,
+                "title": "August 14",
+                "contentmodel": "wikitext",
+                "pagelanguage": "en",
+                "pagelanguagehtmlcode": "en",
+                "pagelanguagedir": "ltr",
+                "touched": "2018-08-13T14:32:05Z",
+                "lastrevid": 853728351,
+                "length": 35025,
+                "fullurl": "https://en.wikipedia.org/wiki/August_14",
+                "editurl": "https://en.wikipedia.org/w/index.php?title=August_14&action=edit",
+                "canonicalurl": "https://en.wikipedia.org/wiki/August_14",
+                "revisions": [{
+                    "contentformat": "text/x-wiki",
+                    "contentmodel": "wikitext",
+                    "*": "{{pp-pc1}}\\n{{pp-move-indef}}\\n{{calendar}}\\n{{This date in recent years}}\\n{{Day}}\\n\\n==Events==\\n*[[29 BC]] &ndash; [[Octavian]] holds the second of three consecutive [[Roman triumph|triumphs]] in [[Ancient Rome|Rome]] to celebrate the victory over the [[Dalmatian tribes]].\\n*[[1040]] &ndash; King [[Duncan I of Scotland|Duncan I]] is killed in battle against his first cousin and rival [[Macbeth, King of Scotland|Macbeth]]. The latter succeeds him as [[List of Scottish monarchs|King of Scotland]].\\n*[[1183]] &ndash; [[Taira no Munemori]] and the [[Taira clan]] take the young [[Emperor Antoku]] and the [[Imperial Regalia of Japan|three sacred treasures]] and flee to western Japan to escape pursuit by the [[Minamoto clan]] (traditional [[Japanese calendar|Japanese date]]: Twenty-fifth Day of the Seventh Month of the Second Year of [[Juei]]).\\n*[[1288]] &ndash; Count [[Adolf VIII of Berg]] grants [[town privileges]] to [[D\\u00fcsseldorf]], the village on the banks of the [[D\\u00fcssel]].\\n*[[1352]] &ndash; [[War of the Breton Succession]]: Anglo-Bretons defeat the [[Kingdom of France|French]] in the [[Battle of Mauron]].\\n*[[1370]] &ndash; [[Charles IV, Holy Roman Emperor]], grants [[city privileges]] to [[Karlovy Vary|Carlsbad]] which is subsequently named after him.\\n*[[1385]] &ndash; [[1383\\u201385 Portuguese interregnum|Portuguese Crisis of 1383\\u201385]]: [[Battle of Aljubarrota]]: Portuguese forces commanded by [[John I of Portugal|King John I]] and his [[General officer|general]] [[Nuno \\u00c1lvares Pereira]] defeat the [[Castile (historical region)|Castilian]] army of [[John I of Castile|King John I]].\\n*[[1457]] &ndash; Publication of the [[Mainz Psalter]], the first book to feature a printed date of publication and printed colophon\\n*[[1480]] &ndash; [[Ottoman invasion of Otranto|Battle of Otranto]]: [[Ottoman Empire|Ottoman]] troops behead 800 [[Christian]]s for refusing to convert to [[Islam]]; they are later [[Martyrs of Otranto|honored]] in the Church.\\n*[[1592]] &ndash; The first sighting of the [[Falkland Islands]] by [[John Davis (English explorer)|John Davis]].\\n*[[1598]] &ndash; [[Nine Years' War (Ireland)|Nine Years' War]]: [[Battle of the Yellow Ford]]: Irish forces under [[Hugh O'Neill, Earl of Tyrone]], defeats an English expeditionary force under [[Henry Bagenal]].\\n*[[1720]] &ndash; The Spanish military [[Villasur expedition]] is wiped out by [[Pawnee people|Pawnee]] and [[Otoe tribe|Otoe]] warriors near present-day [[Columbus, Nebraska]].\\n*[[1791]] &ndash; Slaves from plantations in [[Saint-Domingue]] hold a [[Haitian Vodou|Vodou]] ceremony lead by [[houngan]] [[Dutty Boukman]] at [[Bois Ca\\u00efman]], marking the start of the [[Haitian Revolution]].\\n*[[1814]] &ndash;  A cease fire agreement, called the [[Convention of Moss]], ended the [[Swedish\\u2013Norwegian War (1814)|Swedish\\u2013Norwegian War]].\\n*[[1816]] &ndash; The United Kingdom formally annexes the [[Tristan da Cunha]] archipelago, administering the islands from the [[Cape Colony]] in South Africa.\\n*[[1842]] &ndash; [[American Indian Wars]]: [[Seminole Wars|Second Seminole War]] ends, with the [[Seminole]]s forced from [[Florida]] to [[Oklahoma]].\\n*[[1848]] &ndash; [[Oregon Territory]] is organized by [[act of Congress]].\\n*[[1880]] &ndash; Construction of [[Cologne Cathedral]], the most famous landmark in [[Cologne]], Germany, is completed.\\n*[[1885]] &ndash; [[Japanese patent law|Japan's first patent]] is issued to the inventor of a rust-proof paint.\\n*[[1888]] &ndash; An [[Sound recording and reproduction|audio recording]] of English composer [[Arthur Sullivan]]'s \\\"[[The Lost Chord]]\\\", one of the first recordings of music ever made, is played during a press conference introducing [[Thomas Edison]]'s [[phonograph]] in London, England.\\n*[[1893]] &ndash; France becomes the first country to introduce [[vehicle registration plate|motor vehicle registration]].\\n*[[1900]] &ndash; The [[Eight-Nation Alliance]] occupies Beijing, China, in a campaign to end the bloody [[Boxer Rebellion]] in China.\\n*[[1901]] &ndash; The first claimed [[aviation|powered flight]], by [[Gustave Whitehead]] in his [[Whitehead No. 21|Number 21]].\\n*[[1911]] &ndash; [[United States Senate]] leaders [[Presidents pro tempore of the United States Senate, 1911\\u20131913|agree to rotate the office]] of [[President pro tempore of the United States Senate|President pro tempore of the Senate]] among leading candidates to fill the vacancy left by [[William P. Frye]]'s death.\\n*[[1912]] &ndash; [[United States Marine Corps|U.S. Marines]] invade [[Nicaragua]] to support the U.S.-backed government installed there after [[Jos\\u00e9 Santos Zelaya]] had resigned three years earlier.\\n*[[1914]] &ndash; [[World War I]]: Start of the [[Battle of Lorraine]], an unsuccessful French offensive designed to recover the lost province of [[Moselle]] from Germany.\\n*[[1916]] &ndash; [[Romania during World War I|Romania declares war on Austria-Hungary]].\\n*[[1921]] &ndash; [[Tannu Uriankhai]], later [[Tuvan People's Republic]] is established as a completely independent country (which is supported by [[Russian Soviet Federative Socialist Republic|Soviet Russia]]).\\n*[[1933]] &ndash; Loggers cause a [[Wildfire|forest fire]] in the [[Pacific Coast Ranges|Coast Range]] of [[Oregon]], later known as the first forest fire of the [[Tillamook Burn]]; it is not fully extinguished until September 5, after destroying {{convert|240,000|acre|km2}}.\\n*[[1935]] &ndash; [[Franklin D. Roosevelt]] signs the [[Social Security Act]], creating a government pension system for the retired.\\n*[[1936]] &ndash; [[Rainey Bethea]] is hanged in [[Owensboro, Kentucky]] in the last known public [[capital punishment in the United States|execution in the United States]].\\n*[[1937]] &ndash; The beginning of [[Air combat manoeuvring|air-to-air combat]] of the [[Second Sino-Japanese War]] and [[World War II]] in general, when six Japanese bombers [[Aerial engagements of the Second Sino-Japanese War|are shot down by Chinese fighters]] while raiding Chinese air bases.\\n*[[1941]] &ndash; World War II: [[Winston Churchill]] and [[Franklin D. Roosevelt]] sign the [[Atlantic Charter]] of war stating postwar aims.\\n*[[1945]] &ndash; Japan accepts the Allied [[Japanese Instrument of Surrender|terms of surrender]] in World War II and the [[Emperor of Japan|Emperor]] records the [[Gyokuon-h\\u014ds\\u014d|Imperial Rescript on Surrender]] ([[August 15]] in [[Japan Standard Time]]).\\n*  1945   &ndash; The [[Viet Minh]] launches [[August Revolution]] amid the political confusion and power vacuum engulfing [[Vietnam]].\\n*[[1947]] &ndash; [[Pakistan]] gains [[Pakistan Movement|Independence]] from the [[British Empire]] and joins the [[Commonwealth of Nations]].\\n*[[1959]] &ndash; Founding and first official meeting of the [[American Football League]].\\n*[[1967]] &ndash; UK [[Marine, &c., Broadcasting (Offences) Act 1967|Marine Broadcasting Offences Act]] declares participation in offshore [[pirate radio]] illegal.\\n*[[1969]] &ndash; [[Operation Banner]]: British troops are deployed in [[Northern Ireland]].\\n*[[1971]] &ndash; [[Bahrain]] declares independence as the State of Bahrain.\\n*[[1972]] &ndash; An Ilyushin Il-62 airliner [[1972 K\\u00f6nigs Wusterhausen air disaster|crashes near K\\u00f6nigs Wusterhausen]], East Germany, due to an in-flight fire, killing 156.\\n*[[1973]] &ndash; The [[Constitution of Pakistan|Pakistan Constitution of 1973]] comes into effect.\\n*[[1975]] &ndash; ''[[The Rocky Horror Picture Show]]'', the longest-running release in film history, opens in London.\\n*[[1980]] &ndash; [[Lech Wa\\u0142\\u0119sa]] leads strikes at the [[Gda\\u0144sk]], Poland shipyards.\\n*[[1994]] &ndash; Ilich Ram\\u00edrez S\\u00e1nchez, also known as \\\"[[Carlos the Jackal]]\\\", is captured.\\n*[[1996]] &ndash; Greek Cypriot refugee [[Solomos Solomou]] is murdered by Turkish forces while trying to climb a flagpole in order to remove a Turkish flag from its mast in the [[United Nations Buffer Zone in Cyprus]].\\n*[[2003]] &ndash; A [[Northeast blackout of 2003|widescale power blackout]] affects the northeast United States and Canada.\\n*[[2003]]&ndash; [[Project Thread]], an operation launched by CSIS and other Canadian law enforcement agencies, saw the arrest and incarceration of 24 innocent Muslim men, most of them young Pakistani students.\\n*[[2005]] &ndash; [[Helios Airways Flight 522]], en route from Larnaca, [[Cyprus]] to Prague, Czech Republic via Athens, crashes in the hills near [[Grammatiko]], Greece, killing 121 passengers and crew.\\n*[[2006]] &ndash; Sixty-one schoolgirls killed in [[Chencholai bombing]] by [[Sri Lanka Air force|Sri Lankan Air Force]] air strike.\\n*[[2007]] &ndash; The [[2007 Yazidi communities bombings|Kahtaniya bombings]] kills at least 334 people.\\n*[[2013]] &ndash; [[Egypt]] declares a [[state of emergency]] as security forces [[August 2013 Rabaa massacre|kill hundreds of demonstrators]] supporting former president [[Mohamed Morsi]].\\n*[[2015]] &ndash; The [[Embassy of the United States, Havana|US Embassy]] in [[Havana, Cuba]] re-opens after 54 years of being closed when [[Cuba\\u2013United States relations]] were broken off.\\n\\n==Births==\\n* [[928]] &ndash; [[Qian Hongzuo]], king of [[Wuyue]] (d. 947)\\n*[[1297]] &ndash; [[Emperor Hanazono]] of Japan (d. 1348)\\n*[[1473]] &ndash; [[Margaret Pole, Countess of Salisbury]] (d. 1541)\\n*[[1479]] &ndash; [[Catherine of York]] (d. 1527)\\n*[[1499]] &ndash; [[John de Vere, 14th Earl of Oxford]], English politician, [[Lord Great Chamberlain]] (d. 1526)\\n*[[1502]] &ndash; [[Pieter Coecke van Aelst]], Flemish painter (d. 1550)\\n*[[1530]] &ndash; [[Giambattista Benedetti]], Italian mathematician and physicist (d. 1590)\\n*[[1552]] &ndash; [[Paolo Sarpi]], Italian writer (d. 1623)\\n*[[1561]] &ndash; [[Christopher Heydon]], English politician (d. 1623)\\n*[[1575]] &ndash; [[Robert Hayman]], English-Canadian poet and politician (d. 1629)\\n*[[1586]] &ndash; [[William Hutchinson (Rhode Island)|William Hutchinson]], founder of Rhode Island (d. 1642)\\n*[[1599]] &ndash; [[M\\u00e9ric Casaubon]], Swiss-English scholar and author (d. 1671)\\n*[[1625]] &ndash; [[Fran\\u00e7ois de Harlay de Champvallon]], French archbishop (d. 1695)\\n*[[1642]] &ndash; [[Cosimo III de' Medici, Grand Duke of Tuscany]] (d. 1723)\\n*[[1645]] &ndash; [[Carlos de Sig\\u00fcenza y G\\u00f3ngora]], Mexican secular priest, scientist, and savant (d. 1700)\\n*[[1653]] &ndash; [[Christopher Monck, 2nd Duke of Albemarle]], English colonel and politician, [[Lieutenant Governor of Jamaica]] (d. 1688)\\n*[[1688]] &ndash; [[Frederick William I of Prussia]] (d. 1740)\\n*[[1714]] &ndash; [[Claude Joseph Vernet]], French painter (d. 1789)\\n*[[1738]] &ndash; [[Leopold Hofmann]], Austrian composer and conductor (d. 1793)\\n*[[1740]] &ndash; [[Pope Pius VII]] (d. 1823)\\n*[[1758]] &ndash; [[Carle Vernet]], French painter and lithographer (d. 1835)\\n*[[1777]] &ndash; [[Hans Christian \\u00d8rsted]], Danish physicist and chemist (d. 1851)\\n*[[1817]] &ndash; [[Alexander H. Bailey]], American lawyer, judge, and politician (d. 1874)\\n*[[1840]] &ndash; [[Richard von Krafft-Ebing]], German-Austrian psychologist and author (d. 1902)\\n*[[1847]] &ndash; [[Robert Comtesse]], Swiss lawyer and politician, [[List of Presidents of the National Council of Switzerland|President of the Swiss National Council]] (d. 1922)\\n*[[1848]] &ndash; [[Margaret Lindsay Huggins]], Anglo-Irish astronomer and author (d. 1915)\\n*[[1851]] &ndash; [[Yannoulis Chalepas]], Greek sculptor (d. 1938)\\n*  1851   &ndash; [[Doc Holliday]], American dentist and gambler (d. 1887)\\n*[[1857]] &ndash; [[Max Wagenknecht]], German organist, composer, and educator (d. 1922)\\n*[[1863]] &ndash; [[Ernest Thayer]], American poet and author (d. 1940)\\n*[[1865]] &ndash; [[Guido Castelnuovo]], Italian mathematician and academic (d. 1952)\\n*[[1866]] &ndash; [[Charles Jean de la Vall\\u00e9e-Poussin]], Belgian mathematician and academic (d. 1962)\\n*[[1867]] &ndash; [[Cupid Childs]], American baseball player (d. 1912)\\n*[[1867]] &ndash; [[John Galsworthy]],  English novelist and playwright, [[Nobel Prize in Literature|Nobel Prize]] laureate (d. 1933)\\n*[[1870]] &ndash; [[Nelson McDowell]], American actor (d. 1947)\\n*[[1871]] &ndash; [[Guangxu Emperor]] of China (d. 1908)\\n*[[1875]] &ndash; [[Mstislav Dobuzhinsky]], Russian-Lithuanian-American painter and illustrator (d. 1957)\\n*[[1876]] &ndash; [[Alexander I of Serbia]] (d. 1903)\\n*[[1880]] &ndash; [[Fred Alexander]], American tennis player (d. 1969)\\n*[[1881]] &ndash; [[Francis Ford (actor)|Francis Ford]], American actor, director, producer, and screenwriter (d. 1953)\\n*[[1886]] &ndash; [[Arthur Jeffrey Dempster]], Canadian-American physicist and academic (d. 1950)\\n*[[1887]] &ndash; [[Marija Leiko]], Latvian actress (d. 1937)\\n*[[1889]] &ndash; [[Otto Tief]], Estonian lawyer and politician, [[List of heads of government of Estonia|Prime Minister of Estonia]] (d. 1976)\\n*[[1890]] &ndash; [[Bruno Tesch]], German chemist and businessman (d. 1946)\\n*[[1892]] &ndash; [[Kaikhosru Shapurji Sorabji]], English pianist, composer, and critic (d. 1988)\\n*[[1893]] &ndash; [[Francis Dvornik]], Czech priest and academic (d. 1975)\\n*[[1895]] &ndash; [[Jack Gregory (cricketer)|Jack Gregory]], Australian cricketer (d. 1973)\\n*1895 &ndash; [[Amaza Lee Meredith]], American architect (d. 1984)<ref>{{Cite web|url=http://www.livingplaces.com/people/amaza-lee-meredith.html|title=Amaza Lee Meredith, Architect [1895-1984]|website=www.livingplaces.com|access-date=2018-06-04}}</ref>\\n*[[1896]] &ndash; [[Albert Ball]], English fighter pilot (d. 1917)\\n*  1896   &ndash; [[Theodor Luts]], Estonian director and cinematographer (d. 1980)\\n*[[1900]] &ndash; [[Margret Boveri]], German journalist, recipient of the [[Order of Merit of the Federal Republic of Germany]] (d. 1975)\\n*[[1901]] &ndash; [[Alice Rivaz]], Swiss pianist and author (d. 1998)\\n*[[1903]] &ndash; [[Lodewijk Bruckman]], Dutch painter and illustrator (d. 1995)\\n*[[1907]] &ndash; [[Skinnay Ennis]], American bandleader and singer (d. 1963) \\n*[[1910]] &ndash; [[Willy Ronis]], French photographer (d. 2009)\\n*  1910   &ndash; [[Pierre Schaeffer]], French composer and producer (d. 1995)\\n*[[1911]] &ndash; [[Jan Koetsier]], Dutch composer and conductor (d. 2006)\\n*  1911   &ndash; [[Vethathiri Maharishi]], Indian spiritual leader, philosopher, and author (d. 2006)\\n*[[1912]] &ndash; [[Frank Oppenheimer]], American physicist and academic (d. 1985)\\n*[[1913]] &ndash; [[Hector Crawford]], Australian director and producer (d. 1991)\\n*  1913   &ndash; [[Paul Dean (baseball)|Paul Dean]], American baseball player (d. 1981)\\n*[[1914]] &ndash; [[Herman Branson]], African-American physicist, chemist, and academic (d. 1995)\\n*[[1915]] &ndash; [[B. A. Santamaria]], Australian political activist and publisher (d. 1998)\\n*[[1916]] &ndash; [[Frank and John Craighead]], American naturalists (twins, Frank d. 2001, John d. 2016)\\n*  1916   &ndash; [[Fumio Fujimura]], Japanese baseball player and manager (d. 1992)\\n*  1916   &ndash; [[Wellington Mara]], American businessman (d. 2005)\\n*[[1918]] &ndash; [[Patsy Smart]], English actress (d. 1996)\\n*[[1922]] &ndash; [[Leslie Marr]], English race car driver\\n*[[1923]] &ndash; [[Patriarch Diodoros of Jerusalem]] (d. 2000)\\n*  1923   &ndash; [[Alice Ghostley]], American actress (d. 2007)\\n*[[1924]] &ndash; [[Sverre Fehn]], Norwegian architect, designed the [[Hedmark Museum]] (d. 2009)\\n*  1924   &ndash; [[Holger Juul Hansen]], Danish actor (d. 2013)\\n*  1924   &ndash; [[Georges Pr\\u00eatre]], French conductor (d. 2017)\\n*  1924   &ndash; [[Rangjung Rigpe Dorje, 16th Karmapa]], Tibetan spiritual leader (d. 1981)\\n*[[1925]] &ndash; [[Russell Baker]], American critic and essayist\\n*[[1926]] &ndash; [[Ren\\u00e9 Goscinny]], French author and illustrator (d. 1977)\\n*  1926   &ndash; [[Buddy Greco]], American singer and pianist (d. 2017)\\n*[[1928]] &ndash; [[Lina Wertm\\u00fcller]], Italian director and screenwriter\\n*[[1929]] &ndash; [[Kinnaird R. McKee]], American admiral (d. 2013)\\n*  1929   &ndash; [[Gene Scott]], American pastor and broadcaster (d. 2005)\\n*  1929   &ndash; [[Dick Tiger]], Nigerian boxer (d. 1971)\\n*[[1930]] &ndash; [[Earl Weaver]], American baseball player and manager (d. 2013)\\n*[[1931]] &ndash; [[Frederic Raphael]], American journalist, author, and screenwriter\\n*[[1932]] &ndash; [[Lee Hoffman]], American author (d. 2007)\\n*[[1933]] &ndash; [[Richard R. Ernst]], Swiss chemist and academic, [[Nobel Prize in Chemistry|Nobel Prize]] laureate\\n*[[1935]] &ndash; [[John Brodie]], American football player and golfer\\n*[[1940]] &ndash; [[Seals and Crofts|Darrell \\\"Dash\\\" Crofts]], American singer-songwriter and musician \\n*  1940   &ndash; [[Galen Hall]], American football player and coach\\n*[[1941]] &ndash; [[David Crosby]], American singer-songwriter and guitarist \\n*  1941   &ndash; [[Connie Smith]], American country music singer-songwriter and guitarist\\n*  1941   &ndash; [[Ernest Everett Just]], African-American biologist and academic (d. 1941)\\n*[[1942]] &ndash; [[Willie Dunn]], Canadian singer-songwriter and producer (d. 2013)\\n*  1942   &ndash; [[Lionel Morton]], English singer-songwriter, guitarist and television presenter\\n*[[1943]] &ndash; [[Ronnie Campbell]], English miner and politician\\n*  1943   &ndash; [[Ben Sidran]], American jazz and rock keyboardist, producer, label owner, and music writer\\n*[[1944]] &ndash; [[John Dunt]], English admiral\\n*[[1945]] &ndash; [[Steve Martin]], American actor, comedian, musician, producer, and screenwriter\\n*  1945   &ndash; [[Wim Wenders]], German director, producer, and screenwriter\\n*[[1946]] &ndash; [[Larry Graham]], American soul/funk bass player and singer-songwriter\\n*  1946   &ndash; [[Susan Saint James]], American actress \\n*  1946   &ndash; [[Tom Walkinshaw]], Scottish race car driver and businessman (d. 2010)\\n*[[1947]] &ndash; [[Bruce Nash]], American director, producer, and screenwriter\\n*  1947   &ndash; [[Maddy Prior]], English folk singer \\n*  1947   &ndash; [[Danielle Steel]], American author\\n*  1947   &ndash; [[Jiro Taniguchi]], Japanese author and illustrator\\n*  1947   &ndash; [[Joop van Daele]], Dutch footballer and manager\\n*[[1948]] &ndash; [[Terry Adams (musician)|Terry Adams]], American pianist and composer \\n*  1948   &ndash; [[Bruce Thomas]], English bass player and author\\n*[[1949]] &ndash; [[Morten Olsen]], Danish footballer and coach\\n*[[1950]] &ndash; [[Gary Larson]], American cartoonist\\n*[[1951]] &ndash; [[Slim Dunlap]], American singer-songwriter and guitarist \\n*  1951   &ndash; [[Norbert Hofmann (footballer, born 1951)|Norbert Hofmann]], German footballer and manager\\n*[[1952]] &ndash; [[John McCutcheon]], American folksinger \\n*  1952   &ndash; [[Debbie Meyer]], American swimmer\\n*[[1953]] &ndash; [[James Horner]], American composer and conductor (d. 2015)\\n*[[1954]] &ndash; [[Mark Fidrych]], American baseball player and sportscaster (d. 2009)\\n*  1954   &ndash; [[Stanley A. McChrystal]], American general\\n*[[1956]] &ndash; [[Sharon Bryant (singer)|Sharon Bryant]], American R&B singer \\n*  1956   &ndash; [[Jack\\u00e9e Harry]], American actress and television personality\\n*  1956   &ndash; [[Andy King (footballer, born 1956)|Andy King]], English footballer and manager (d. 2015)\\n*  1956   &ndash; [[Rusty Wallace]], American race car driver and sportscaster\\n*  1956   &ndash; [[Erica Flapan]], American mathematician\\n*[[1957]] &ndash; [[Peter Costello]], Australian lawyer and politician, 35th [[Treasurer of Australia]]\\n*[[1958]] &ndash; [[Philip Dunne (Ludlow MP)|Philip Dunne]], English farmer and politician, [[Minister for Defence Equipment, Support and Technology]]\\n*  1958   &ndash; [[Bobby Eaton]], American wrestler and trainer\\n*[[1959]] &ndash; [[Frank Brickowski]], American basketball player\\n*  1959   &ndash; [[Marcia Gay Harden]], American actress\\n*  1959   &ndash; [[Magic Johnson]], American basketball player and coach\\n*[[1960]] &ndash; [[Sarah Brightman]], English singer-songwriter and actress\\n*  1960   &ndash; [[Fred Roberts]], American basketball player and educator\\n*[[1961]] &ndash; [[Eddie Gilbert (wrestler)|Eddie Gilbert]], American wrestler and manager (d. 1995)\\n*[[1962]] &ndash; [[Mark Gubicza]], American baseball player and sportscaster\\n*  1962   &ndash; [[Kevin Harris]], Canadian skateboarder \\n*  1962   &ndash; [[Andres Herkel]], Estonian academic and politician\\n*  1962   &ndash; [[Rameez Raja]], Pakistani cricketer and sportscaster\\n*[[1963]] &ndash; [[Emmanuelle B\\u00e9art]], French actress \\n*  1963   &ndash; [[Jos\\u00e9 C\\u00f3ceres]], Argentinian golfer\\n*[[1964]] &ndash; [[Neal Anderson]], American football player and coach\\n*  1964   &ndash; [[Jason Dunstall]], Australian footballer and sportscaster\\n*[[1965]] &ndash; [[Brannon Braga]], American producer, director, and screenwriter\\n*  1965   &ndash; [[Paul Broadhurst]], English golfer\\n*  1965   &ndash; [[Terry Richardson]], American photographer and director\\n*[[1966]] &ndash; [[Halle Berry]], American model, actress, and producer, [[Miss World United States|Miss World United States 1986]]\\n*  1966   &ndash; [[Karl Petter L\\u00f8ken]], Swedish-Norwegian footballer and sportscaster\\n*  1966   &ndash; [[Tuncay \\u00d6zkan]], Turkish journalist and politician\\n*[[1967]] &ndash; [[Erik Gandini]], Italian-Swedish director, producer, and screenwriter\\n*[[1968]] &ndash; [[Pravin Amre]], Indian cricketer and coach\\n*  1968   &ndash; [[Catherine Bell (actress)|Catherine Bell]], English-American actress and producer\\n*  1968   &ndash; [[Darren Clarke]], Northern Irish golfer\\n*  1968   &ndash; [[Jason Leonard]], English rugby player\\n*  1968   &ndash; [[Medy van der Laan]], Dutch politician\\n*[[1969]] &ndash; [[Tracy Caldwell Dyson]], American chemist and astronaut\\n*  1969   &ndash; [[Stig T\\u00f8fting]], Danish footballer and manager\\n*[[1970]] &ndash; [[Kevin Cadogan]], American rock singer-songwriter, guitarist, and producer  ([[Third Eye Blind]])\\n*[[1971]] &ndash; [[Raoul Bova]], Italian actor, producer, and screenwriter\\n*  1971   &ndash; [[Mark Loretta]], American baseball player and coach\\n*  1971   &ndash; [[Pramodya Wickramasinghe]], Sri Lankan cricketer\\n*[[1972]] &ndash; [[Tamer El Said]], Egyptian director, producer, and screenwriter\\n*  1972   &ndash; [[Laurent Lamothe]], Haitian businessman and politician, 15th [[Prime Minister of Haiti]]\\n*[[1973]] &ndash; [[Jared Borgetti]], Mexican footballer\\n*  1973   &ndash; [[Jay-Jay Okocha]], Nigerian footballer\\n*  1973   &ndash; [[Kieren Perkins]], Australian swimmer and sportscaster\\n*  1973   &ndash; [[Paddy McGuinness]], English comedian and television presenter\\n*[[1974]] &ndash; [[Chucky Atkins]], American basketball player and coach\\n*[[1975]] &ndash; [[Mike Vrabel]], American football player and coach\\n*[[1976]] &ndash; [[Fabrizio Donato]], Italian triple jumper\\n*[[1977]] &ndash; [[Ed Harcourt]], English singer-songwriter and producer\\n*  1977   &ndash; [[Juan Pierre]], American baseball player\\n*[[1978]] &ndash; [[Randika Galhenage]], Sri Lankan cricketer\\n*  1978   &ndash; [[Anastasios Kyriakos]], Greek footballer\\n*  1978   &ndash; [[Greg Rawlinson]], South African-New Zealand rugby player\\n*[[1979]] &ndash; [[J\\u00e9r\\u00e9mie Br\\u00e9chet]], French footballer\\n*  1979   &ndash; [[Paul Burgess (athlete)|Paul Burgess]], Australian pole vaulter\\n*  1979   &ndash; [[Y\\u014dichir\\u014d Morikawa]], Japanese actor, director, and screenwriter\\n*[[1980]] &ndash; [[Ayd\\u0131n Toscal\\u0131]], Turkish footballer\\n*  1980   &ndash; [[Roy Williams (safety)|Roy Williams]], American football player\\n*[[1981]] &ndash; [[Earl Barron]], American basketball player\\n*  1981   &ndash; [[Matthew Etherington]], English footballer\\n*  1981   &ndash; [[Paul Gallen]], Australian rugby league player\\n*  1981   &ndash; [[Julius Jones]], American football player\\n*  1981   &ndash; [[Kofi Kingston]], Ghanaian-American wrestler\\n*[[1982]] &ndash; [[Simon Andrews (motorcycle racer)|Simon Andrews]], English motorcycle racer (d. 2014)\\n*[[1983]] &ndash; [[Elena Baltacha]], Ukrainian-Scottish tennis player (d. 2014)\\n*  1983   &ndash; [[Mila Kunis]], Ukrainian-born American actress\\n*  1983   &ndash; [[Juan Oviedo]], Dominican baseball player\\n*  1983   &ndash; [[Spencer Pratt]], American television personality\\n*  1983   &ndash; [[Sunidhi Chauhan]], Indian playback singer\\n*  1984   &ndash; [[Eva Birnerov\\u00e1]], Czech tennis player\\n*  1984   &ndash; [[Clay Buchholz]], American baseball player\\n*  1984   &ndash; [[Giorgio Chiellini]], Italian footballer\\n*  1984   &ndash; [[Josh Gorges]], Canadian ice hockey player\\n*  1984   &ndash; [[Nick Grimshaw]], English radio and television host\\n*  1984   &ndash; [[Nicola Slater]], Scottish tennis player\\n*  1984   &ndash; [[Robin S\\u00f6derling]], Swedish tennis player\\n*[[1985]] &ndash; [[Christian Gentner]], German footballer\\n*  1985   &ndash; [[Shea Weber]], Canadian ice hockey player\\n*[[1986]] &ndash; [[Cameron Jerome]], English footballer\\n*  1986   &ndash; [[Sam Moa]], Tongan-New Zealand rugby league player\\n*  1986   &ndash; [[Braian Rodr\\u00edguez]], Uruguayan footballer\\n*[[1987]] &ndash; [[Tim Tebow]], American football and baseball player, television personality and sportscaster\\n*[[1989]] &ndash; [[Florian Abel (footballer)|Florian Abel]], German footballer\\n*  1989   &ndash; [[Ander Herrera]], Spanish footballer \\n*  1989   &ndash; [[Kyle Turris]], Canadian ice hockey player\\n*[[1991]] &ndash; [[Richard Freitag]], German ski jumper<ref>{{FIS ski jumper|128618|Richard Freitag}}</ref>\\n<!--Do not add yourself or people without Wikipedia articles to this list. Do not trust \\\"this year in history\\\" websites for accurate date information. Do not link multiple occurrences of the same year, just link the first occurrence.-->\\n\\n==Deaths==\\n* [[582]] &ndash; [[Tiberius II Constantine]], Byzantine emperor (b. 535)\\n* [[902]] &ndash; [[Badr al-Mu'tadidi]], commander-in-chief of the Abbasid Caliphate under al-Mu'tadid\\n*[[1040]] &ndash; [[Duncan I of Scotland]] (b. 1001)\\n*[[1167]] &ndash; [[Rainald of Dassel]], Italian archbishop (b. 1120)\\n*[[1204]] &ndash; [[Minamoto no Yoriie]], Japanese shogun (b. 1182)\\n*[[1297]] &ndash; [[Frederick III, Burgrave of Nuremberg]] (b. c. 1220)\\n*[[1319]] &ndash; [[Waldemar, Margrave of Brandenburg-Stendal]] (b. c. 1280)\\n*[[1388]] &ndash; [[James Douglas, 2nd Earl of Douglas]] \\n*[[1390]] &ndash; [[John FitzAlan, 2nd Baron Arundel]], English soldier (b. 1364)\\n*[[1433]] &ndash; [[John I of Portugal]] (b. 1357)\\n*[[1464]] &ndash; [[Pope Pius II]] (b. 1405)\\n*[[1573]] &ndash; [[Sait\\u014d Tatsuoki]], Japanese daimyo (b. 1548)\\n*[[1657]] &ndash; [[Giovanni Paolo Lascaris]], 57th Grandmaster of the [[Knights Hospitaller]] (b. 1560)\\n*[[1691]] &ndash; [[Richard Talbot, 1st Earl of Tyrconnell]], Irish soldier and politician, [[Lord Lieutenant of Ireland]] (b. 1630)\\n*[[1727]] &ndash; [[William Croft]], English organist and composer (b. 1678)\\n*[[1774]] &ndash; [[Johann Jakob Reiske]], German physician and scholar (b. 1716)\\n*[[1784]] &ndash; [[Nathaniel Hone the Elder]], Irish-born English painter and academic (b. 1718)\\n*[[1856]] &ndash; [[Constant Pr\\u00e9vost]], French geologist and academic (b. 1787)\\n*[[1860]] &ndash; [[Andr\\u00e9 Marie Constant Dum\\u00e9ril]], French zoologist and entomologist (b. 1774)\\n*[[1870]] &ndash; [[David Farragut]], American admiral (b. 1801)\\n*[[1874]] &ndash; [[Jonathan Clarkson Gibbs]], American minister and politician (b. 1821)\\n*[[1890]] &ndash; [[Michael J. McGivney]], American priest, founded the [[Knights of Columbus]] (b. 1852)\\n*[[1905]] &ndash; [[Simeon Solomon]], English soldier and painter (b. 1840)\\n*[[1909]] &ndash; [[William Stanley (inventor)|William Stanley]], American engineer and philanthropist (b. 1829)\\n*[[1926]] &ndash; [[John H. Moffitt]], American sergeant and politician, [[Medal of Honor]] recipient (b. 1843)\\n*[[1928]] &ndash; [[Klabund]], German author and poet (b. 1890)\\n*[[1938]] &ndash; [[Hugh Trumble]], Australian cricketer and accountant (b. 1876)\\n*[[1941]] &ndash; [[Maximilian Kolbe]], Polish martyr and saint (b. 1894)\\n*  1941   &ndash; [[Paul Sabatier (chemist)|Paul Sabatier]], French chemist and academic, [[Nobel Prize in Chemistry|Nobel Prize]] laureate (b. 1854)\\n*[[1943]] &ndash; [[Lore Berger]], Swiss author and translator (b. 1921)\\n*  1943   &ndash; [[Joe Kelley]], American baseball player and manager (b. 1871)\\n*[[1951]] &ndash; [[William Randolph Hearst]], American publisher and politician, founded the [[Hearst Corporation]] (b. 1863)\\n*[[1954]] &ndash; [[Hugo Eckener]], German pilot and designer (b. 1868)\\n*  1954   &ndash; [[Nikos Ploumpidis]], Greek activist (b. 1901)\\n*[[1955]] &ndash; [[Herbert Putnam]], American lawyer and publisher, [[Librarian of Congress]] (b. 1861)\\n*[[1956]] &ndash; [[Bertolt Brecht]], German poet, playwright, and director (b. 1898)\\n*[[1958]] &ndash; [[Fr\\u00e9d\\u00e9ric Joliot-Curie]], French physicist and chemist, [[Nobel Prize in Chemistry|Nobel Prize]] laureate (b. 1900)\\n*  1958   &ndash; [[Konstantin von Neurath]], German lawyer and politician, [[Minister for Foreign Affairs (Germany)|Reich Minister of Foreign Affairs]] (b. 1873)\\n*[[1963]] &ndash; [[Clifford Odets]], American director, playwright, and screenwriter (b. 1906)\\n*[[1964]] &ndash; [[Johnny Burnette]], American singer-songwriter (b. 1934)\\n*[[1965]] &ndash; [[Vello Kaaristo]], Estonian skier (b. 1911)\\n*[[1966]] &ndash; [[Tip Snooke]], South African cricketer (b. 1881)\\n*[[1967]] &ndash; [[Bob Anderson (racing driver)|Bob Anderson]], English motorcycle racer and race car driver (b. 1931)\\n*[[1972]] &ndash; [[Oscar Levant]], American actor, pianist, and composer (b. 1906)\\n*  1972   &ndash; [[Jules Romains]], French author and poet (b. 1885)\\n*[[1973]] &ndash; [[Fred Gipson]], American journalist and author (b. 1908)\\n*[[1978]] &ndash; [[Nicolas Bentley]], English author and illustrator (b. 1907)\\n*[[1980]] &ndash; [[Dorothy Stratten]], Canadian-American model and actress (b. 1960)\\n*[[1981]] &ndash; [[Karl B\\u00f6hm]], Austrian conductor and director (b. 1894)\\n*  1981   &ndash; [[Dudley Nourse]], South African cricketer (b. 1910)\\n*[[1982]] &ndash; [[Mahasi Sayadaw]], Burmese monk and philosopher (b. 1904)\\n*[[1984]] &ndash; [[Spud Davis]], American baseball player, coach, and manager (b. 1904)\\n*  1984   &ndash; [[J. B. Priestley]], English novelist and playwright (b. 1894)\\n*[[1985]] &ndash; [[Gale Sondergaard]], American actress (b. 1899)\\n*[[1988]] &ndash; [[Roy Buchanan]], American singer-songwriter and guitarist (b. 1939)\\n*  1988   &ndash; [[Robert Calvert]], South African-English singer-songwriter and playwright (b. 1945)\\n*  1988   &ndash; [[Enzo Ferrari]], Italian race car driver and businessman, founded [[Ferrari]] (b. 1898)\\n*[[1989]] &ndash; [[Ricky Berry]], American basketball player (b. 1964)\\n*[[1991]] &ndash; [[Alberto Crespo]], Argentinian race car driver (b. 1920)\\n*[[1992]] &ndash; [[John Sirica]], American lawyer and judge (b. 1904)\\n*[[1994]] &ndash; [[Elias Canetti]], Bulgarian-Swiss novelist, playwright, memoirist, [[Nobel Prize in Literature|Nobel Prize]] laureate (b. 1905)\\n*  1994   &ndash; [[Alice Childress]], American actress, playwright, and author (b. 1912)\\n*[[1996]] &ndash; [[Sergiu Celibidache]], Romanian conductor and composer (b. 1912)\\n*[[1999]] &ndash; [[Pee Wee Reese]], American baseball player and sportscaster (b. 1918)\\n*[[2000]] &ndash; [[Alain Fournier]], French-Canadian computer scientist and academic (b. 1943)\\n*[[2002]] &ndash; [[Larry Rivers]], American painter and sculptor (b. 1923)\\n*[[2003]] &ndash; [[Helmut Rahn]], German footballer (b. 1929)\\n*[[2004]] &ndash; [[Czes\\u0142aw Mi\\u0142osz]], Polish-born American novelist, essayist, and poet, [[Nobel Prize in Literature|Nobel Prize]] laureate (b. 1911)\\n*  2004   &ndash; [[Trevor Skeet]], New Zealand-English lawyer and politician (b. 1918)\\n*[[2006]] &ndash; [[Adriaan de Groot]], Dutch psychologist and chess player (b. 1914)\\n*  2006   &ndash; [[Bruno Kirby]], American actor (b. 1949)\\n*[[2007]] &ndash; [[Pinchas Goldstein]], Israeli politician (b. 1939)\\n*  2007   &ndash; [[Tikhon Khrennikov]], Russian pianist and composer (b. 1913)\\n*  2007   &ndash; [[Kotozakura Masakatsu]], Japanese sumo wrestler, the 53rd [[Makuuchi#Yokozuna|Yokozuna]] (b. 1940)\\n*[[2010]] &ndash; [[Rallis Kopsidis]], Greek painter and author (b. 1929)\\n*  2010   &ndash; [[Herman Leonard]], American soldier and photographer (b. 1923)\\n*[[2011]] &ndash; [[Fritz Korbach]], German footballer and manager (b. 1945)\\n*[[2012]] &ndash; [[Maja Bo\\u0161kovi\\u0107-Stulli]], Croatian historian and academic (b. 1922)\\n*  2012   &ndash; [[Vilasrao Deshmukh]], Indian lawyer and politician, 14th [[Chief Minister of Maharashtra]] (b. 1945)\\n*  2012   &ndash; [[Svetozar Gligori\\u0107]], Serbian chess player and theoretician (b. 1923)\\n*  2012   &ndash; [[Sergey Kapitsa]], English-Russian physicist and demographer (b. 1928)\\n*  2012   &ndash; [[Phyllis Thaxter]], American actress (b. 1919)\\n*[[2013]] &ndash; [[Jack Garfinkel]], American basketball player and coach (b. 1918)\\n*  2013   &ndash; [[Jack Germond]], American journalist and author (b. 1928)\\n*  2013   &ndash; [[Paddy Power (Irish politician)|Paddy Power]], Irish educator and politician, 22nd [[Minister for Defence (Ireland)|Irish Minister for Defence]] (b. 1928)\\n*[[2014]] &ndash; [[Leonard Fein]], American journalist and academic, co-founded ''[[Moment (magazine)|Moment Magazine]]'' (b. 1934)\\n*  2014   &ndash; [[George V. Hansen]], American soldier and politician (b. 1930)\\n*[[2015]] &ndash; [[Agust\\u00edn Cejas]],  Argentinian footballer (b. 1945)\\n*  2015   &ndash; [[Bob Farrell (motivational speaker)|Bob Farrell]], American businessman, founded [[Farrell's Ice Cream Parlour]] (b. 1927)\\n*  2015   &ndash; [[Bob Johnston]], American songwriter and producer (b. 1932)\\n*[[2016]] &ndash; [[Fyvush Finkel|Philip \\\"Fyuvsh\\\" Finkel]], American actor (b. 1922)\\n<!--Do not add people without Wikipedia articles to this list. Do not trust \\\"this year in history\\\" websites for accurate date information. Do not link multiple occurrences of the same year, just link the first occurrence.-->\\n\\n==Holidays and observances==\\n*Christian [[Calendar of saints|feast day]]:\\n**[[Domingo Ib\\u00e1\\u00f1ez de Erquicia]]\\n**[[Eusebius of Rome]]\\n**[[Jonathan Myrick Daniels]] ([[Calendar of saints (Episcopal Church)|Episcopal Church]])\\n**[[Kaj Munk]] (with Kolbe, [[Calendar of Saints (Lutheran)|Lutheran Church]])\\n**[[Martyrs of Otranto]] \\n**[[Maximilian Kolbe]]\\n**[[August 14 (Eastern Orthodox liturgics)]]\\n*[[Public holidays in Saint Helena, Ascension and Tristan da Cunha|Anniversary Day]] ([[Tristan da Cunha]])\\n*[[Commemoration of Wadi al-Dahab]] ([[Morocco]])\\n*[[Engineer's Day]] ([[Dominican Republic]])\\n*[[Public holidays in Abkhazia|Day of the Defenders of the Fatherland]] ([[Abkhazia]]) (state is not fully recognized)\\n*[[Independence Day (Pakistan)|Independence Day]], celebrates the day when Pakistan was declared a sovereign nation following the end of the [[British Raj]] in 1947.\\n*[[Pramuka Day]] ([[Indonesia]])\\n*[[Falklands Day]]\\n==References==\\n{{reflist}}\\n==External links==\\n{{commons}}\\n* [http://news.bbc.co.uk/onthisday/hi/dates/stories/august/14 BBC: On This Day]\\n* {{NYT On this day|month=08|day=14}}\\n* [https://archive.is/20121209202937/http://www1.sympatico.ca/cgi-bin/on_this_day?mth=Aug&day=14 On This Day in Canada]\\n\\n{{months}}\\n\\n[[Category:Days of the year]]\\n[[Category:August]]"
+                }],
+                "links": [{
+                    "ns": 0,
+                    "title": "1040"
+                }, {
+                    "ns": 0,
+                    "title": "1167"
+                }, {
+                    "ns": 0,
+                    "title": "1183"
+                }, {
+                    "ns": 0,
+                    "title": "1204"
+                }, {
+                    "ns": 0,
+                    "title": "1288"
+                }, {
+                    "ns": 0,
+                    "title": "1297"
+                }, {
+                    "ns": 0,
+                    "title": "1319"
+                }, {
+                    "ns": 0,
+                    "title": "1352"
+                }, {
+                    "ns": 0,
+                    "title": "1370"
+                }, {
+                    "ns": 0,
+                    "title": "1383\\u201385 Portuguese interregnum"
+                }],
+                "extlinks": [{
+                    "*": "http://news.bbc.co.uk/onthisday/hi/dates/stories/august/14"
+                }, {
+                    "*": "http://www.livingplaces.com/people/amaza-lee-meredith.html"
+                }, {
+                    "*": "https://archive.is/20121209202937/http://www1.sympatico.ca/cgi-bin/on_this_day?mth=Aug&day=14"
+                }, {
+                    "*": "https://data.fis-ski.com/dynamic/athlete-biography.html?sector=JP&competitorid=128618"
+                }, {
+                    "*": "https://learning.blogs.nytimes.com/on-this-day/August-14"
+                }],
+                "images": [{
+                    "ns": 6,
+                    "title": "File:Commons-logo.svg"
+                }, {
+                    "ns": 6,
+                    "title": "File:Padlock-silver-light.svg"
+                }],
+                "categories": [{
+                    "ns": 14,
+                    "title": "Category:Articles with short description"
+                }, {
+                    "ns": 14,
+                    "title": "Category:August"
+                }, {
+                    "ns": 14,
+                    "title": "Category:Days of the year"
+                }, {
+                    "ns": 14,
+                    "title": "Category:FIS ski jumper ID not in Wikidata"
+                }, {
+                    "ns": 14,
+                    "title": "Category:Wikipedia indefinitely move-protected pages"
+                }, {
+                    "ns": 14,
+                    "title": "Category:Wikipedia pending changes protected pages"
+                }],
+                "templates": [{
+                    "ns": 10,
+                    "title": "Template:0"
+                }, {
+                    "ns": 10,
+                    "title": "Template:Calendar"
+                }, {
+                    "ns": 10,
+                    "title": "Template:Calendar/Sun1stMonthStartWed"
+                }, {
+                    "ns": 10,
+                    "title": "Template:Calendar/month/link on"
+                }, {
+                    "ns": 10,
+                    "title": "Template:Cite web"
+                }, {
+                    "ns": 10,
+                    "title": "Template:Commons"
+                }, {
+                    "ns": 10,
+                    "title": "Template:Convert"
+                }, {
+                    "ns": 10,
+                    "title": "Template:DOWs"
+                }, {
+                    "ns": 10,
+                    "title": "Template:Day"
+                }, {
+                    "ns": 10,
+                    "title": "Template:EditAtWikidata"
+                }],
+                "extract": "August 14 is the 226th day of the year (227th in leap years) in the Gregorian calendar. There are 139 days remaining until the end of the year.\\n\\n\\n== Events ==\\n29 BC \\u2013 Octavian holds the second of three consecutive triumphs in Rome to celebrate the victory over the Dalmatian tribes.\\n1040 \\u2013 King Duncan I is killed in battle against his first cousin and rival Macbeth. The latter succeeds him as King of Scotland.\\n1183 \\u2013 Taira no Munemori and the Taira clan take the young Emperor Antoku and the three sacred treasures and flee to western Japan to escape pursuit by the Minamoto clan (traditional Japanese date: Twenty-fifth Day of the Seventh Month of the Second Year of Juei).\\n1288 \\u2013 Count Adolf VIII of Berg grants town privileges to D\\u00fcsseldorf, the village on the banks of the D\\u00fcssel.\\n1352 \\u2013 War of the Breton Succession: Anglo-Bretons defeat the French in the Battle of Mauron.\\n1370 \\u2013 Charles IV, Holy Roman Emperor, grants city privileges to Carlsbad which is subsequently named after him.\\n1385 \\u2013 Portuguese Crisis of 1383\\u201385: Battle of Aljubarrota: Portuguese forces commanded by King John I and his general Nuno \\u00c1lvares Pereira defeat the Castilian army of King John I.\\n1457 \\u2013 Publication of the Mainz Psalter, the first book to feature a printed date of publication and printed colophon\\n1480 \\u2013 Battle of Otranto: Ottoman troops behead 800 Christians for refusing to convert to Islam; they are later honored in the Church.\\n1592 \\u2013 The first sighting of the Falkland Islands by John Davis.\\n1598 \\u2013 Nine Years' War: Battle of the Yellow Ford: Irish forces under Hugh O'Neill, Earl of Tyrone, defeats an English expeditionary force under Henry Bagenal.\\n1720 \\u2013 The Spanish military Villasur expedition is wiped out by Pawnee and Otoe warriors near present-day Columbus, Nebraska.\\n1791 \\u2013 Slaves from plantations in Saint-Domingue hold a Vodou ceremony lead by houngan Dutty Boukman at Bois Ca\\u00efman, marking the start of the Haitian Revolution.\\n1814 \\u2013  A cease fire agreement, called the Convention of Moss, ended the Swedish\\u2013Norwegian War.\\n1816 \\u2013 The United Kingdom formally annexes the Tristan da Cunha archipelago, administering the islands from the Cape Colony in South Africa.\\n1842 \\u2013 American Indian Wars: Second Seminole War ends, with the Seminoles forced from Florida to Oklahoma.\\n1848 \\u2013 Oregon Territory is organized by act of Congress.\\n1880 \\u2013 Construction of Cologne Cathedral, the most famous landmark in Cologne, Germany, is completed.\\n1885 \\u2013 Japan's first patent is issued to the inventor of a rust-proof paint.\\n1888 \\u2013 An audio recording of English composer Arthur Sullivan's \\\"The Lost Chord\\\", one of the first recordings of music ever made, is played during a press conference introducing Thomas Edison's phonograph in London, England.\\n1893 \\u2013 France becomes the first country to introduce motor vehicle registration.\\n1900 \\u2013 The Eight-Nation Alliance occupies Beijing, China, in a campaign to end the bloody Boxer Rebellion in China.\\n1901 \\u2013 The first claimed powered flight, by Gustave Whitehead in his Number 21.\\n1911 \\u2013 United States Senate leaders agree to rotate the office of President pro tempore of the Senate among leading candidates to fill the vacancy left by William P. Frye's death.\\n1912 \\u2013 U.S. Marines invade Nicaragua to support the U.S.-backed government installed there after Jos\\u00e9 Santos Zelaya had resigned three years earlier.\\n1914 \\u2013 World War I: Start of the Battle of Lorraine, an unsuccessful French offensive designed to recover the lost province of Moselle from Germany.\\n1916 \\u2013 Romania declares war on Austria-Hungary.\\n1921 \\u2013 Tannu Uriankhai, later Tuvan People's Republic is established as a completely independent country (which is supported by Soviet Russia).\\n1933 \\u2013 Loggers cause a forest fire in the Coast Range of Oregon, later known as the first forest fire of the Tillamook Burn; it is not fully extinguished until September 5, after destroying 240,000 acres (970 km2).\\n1935 \\u2013 Franklin D. Roosevelt signs the Social Security Act, creating a government pension system for the retired.\\n1936 \\u2013 Rainey Bethea is hanged in Owensboro, Kentucky in the last known public execution in the United States.\\n1937 \\u2013 The beginning of air-to-air combat of the Second Sino-Japanese War and World War II in general, when six Japanese bombers are shot down by Chinese fighters while raiding Chinese air bases.\\n1941 \\u2013 World War II: Winston Churchill and Franklin D. Roosevelt sign the Atlantic Charter of war stating postwar aims.\\n1945 \\u2013 Japan accepts the Allied terms of surrender in World War II and the Emperor records the Imperial Rescript on Surrender (August 15 in Japan Standard Time).\\n1945   \\u2013 The Viet Minh launches August Revolution amid the political confusion and power vacuum engulfing Vietnam.\\n1947 \\u2013 Pakistan gains Independence from the British Empire and joins the Commonwealth of Nations.\\n1959 \\u2013 Founding and first official meeting of the American Football League.\\n1967 \\u2013 UK Marine Broadcasting Offences Act declares participation in offshore pirate radio illegal.\\n1969 \\u2013 Operation Banner: British troops are deployed in Northern Ireland.\\n1971 \\u2013 Bahrain declares independence as the State of Bahrain.\\n1972 \\u2013 An Ilyushin Il-62 airliner crashes near K\\u00f6nigs Wusterhausen, East Germany, due to an in-flight fire, killing 156.\\n1973 \\u2013 The Pakistan Constitution of 1973 comes into effect.\\n1975 \\u2013 The Rocky Horror Picture Show, the longest-running release in film history, opens in London.\\n1980 \\u2013 Lech Wa\\u0142\\u0119sa leads strikes at the Gda\\u0144sk, Poland shipyards.\\n1994 \\u2013 Ilich Ram\\u00edrez S\\u00e1nchez, also known as \\\"Carlos the Jackal\\\", is captured.\\n1996 \\u2013 Greek Cypriot refugee Solomos Solomou is murdered by Turkish forces while trying to climb a flagpole in order to remove a Turkish flag from its mast in the United Nations Buffer Zone in Cyprus.\\n2003 \\u2013 A widescale power blackout affects the northeast United States and Canada.\\n2003\\u2013 Project Thread, an operation launched by CSIS and other Canadian law enforcement agencies, saw the arrest and incarceration of 24 innocent Muslim men, most of them young Pakistani students.\\n2005 \\u2013 Helios Airways Flight 522, en route from Larnaca, Cyprus to Prague, Czech Republic via Athens, crashes in the hills near Grammatiko, Greece, killing 121 passengers and crew.\\n2006 \\u2013 Sixty-one schoolgirls killed in Chencholai bombing by Sri Lankan Air Force air strike.\\n2007 \\u2013 The Kahtaniya bombings kills at least 334 people.\\n2013 \\u2013 Egypt declares a state of emergency as security forces kill hundreds of demonstrators supporting former president Mohamed Morsi.\\n2015 \\u2013 The US Embassy in Havana, Cuba re-opens after 54 years of being closed when Cuba\\u2013United States relations were broken off.\\n\\n\\n== Births ==\\n928 \\u2013 Qian Hongzuo, king of Wuyue (d. 947)\\n1297 \\u2013 Emperor Hanazono of Japan (d. 1348)\\n1473 \\u2013 Margaret Pole, Countess of Salisbury (d. 1541)\\n1479 \\u2013 Catherine of York (d. 1527)\\n1499 \\u2013 John de Vere, 14th Earl of Oxford, English politician, Lord Great Chamberlain (d. 1526)\\n1502 \\u2013 Pieter Coecke van Aelst, Flemish painter (d. 1550)\\n1530 \\u2013 Giambattista Benedetti, Italian mathematician and physicist (d. 1590)\\n1552 \\u2013 Paolo Sarpi, Italian writer (d. 1623)\\n1561 \\u2013 Christopher Heydon, English politician (d. 1623)\\n1575 \\u2013 Robert Hayman, English-Canadian poet and politician (d. 1629)\\n1586 \\u2013 William Hutchinson, founder of Rhode Island (d. 1642)\\n1599 \\u2013 M\\u00e9ric Casaubon, Swiss-English scholar and author (d. 1671)\\n1625 \\u2013 Fran\\u00e7ois de Harlay de Champvallon, French archbishop (d. 1695)\\n1642 \\u2013 Cosimo III de' Medici, Grand Duke of Tuscany (d. 1723)\\n1645 \\u2013 Carlos de Sig\\u00fcenza y G\\u00f3ngora, Mexican secular priest, scientist, and savant (d. 1700)\\n1653 \\u2013 Christopher Monck, 2nd Duke of Albemarle, English colonel and politician, Lieutenant Governor of Jamaica (d. 1688)\\n1688 \\u2013 Frederick William I of Prussia (d. 1740)\\n1714 \\u2013 Claude Joseph Vernet, French painter (d. 1789)\\n1738 \\u2013 Leopold Hofmann, Austrian composer and conductor (d. 1793)\\n1740 \\u2013 Pope Pius VII (d. 1823)\\n1758 \\u2013 Carle Vernet, French painter and lithographer (d. 1835)\\n1777 \\u2013 Hans Christian \\u00d8rsted, Danish physicist and chemist (d. 1851)\\n1817 \\u2013 Alexander H. Bailey, American lawyer, judge, and politician (d. 1874)\\n1840 \\u2013 Richard von Krafft-Ebing, German-Austrian psychologist and author (d. 1902)\\n1847 \\u2013 Robert Comtesse, Swiss lawyer and politician, President of the Swiss National Council (d. 1922)\\n1848 \\u2013 Margaret Lindsay Huggins, Anglo-Irish astronomer and author (d. 1915)\\n1851 \\u2013 Yannoulis Chalepas, Greek sculptor (d. 1938)\\n1851   \\u2013 Doc Holliday, American dentist and gambler (d. 1887)\\n1857 \\u2013 Max Wagenknecht, German organist, composer, and educator (d. 1922)\\n1863 \\u2013 Ernest Thayer, American poet and author (d. 1940)\\n1865 \\u2013 Guido Castelnuovo, Italian mathematician and academic (d. 1952)\\n1866 \\u2013 Charles Jean de la Vall\\u00e9e-Poussin, Belgian mathematician and academic (d. 1962)\\n1867 \\u2013 Cupid Childs, American baseball player (d. 1912)\\n1867 \\u2013 John Galsworthy,  English novelist and playwright, Nobel Prize laureate (d. 1933)\\n1870 \\u2013 Nelson McDowell, American actor (d. 1947)\\n1871 \\u2013 Guangxu Emperor of China (d. 1908)\\n1875 \\u2013 Mstislav Dobuzhinsky, Russian-Lithuanian-American painter and illustrator (d. 1957)\\n1876 \\u2013 Alexander I of Serbia (d. 1903)\\n1880 \\u2013 Fred Alexander, American tennis player (d. 1969)\\n1881 \\u2013 Francis Ford, American actor, director, producer, and screenwriter (d. 1953)\\n1886 \\u2013 Arthur Jeffrey Dempster, Canadian-American physicist and academic (d. 1950)\\n1887 \\u2013 Marija Leiko, Latvian actress (d. 1937)\\n1889 \\u2013 Otto Tief, Estonian lawyer and politician, Prime Minister of Estonia (d. 1976)\\n1890 \\u2013 Bruno Tesch, German chemist and businessman (d. 1946)\\n1892 \\u2013 Kaikhosru Shapurji Sorabji, English pianist, composer, and critic (d. 1988)\\n1893 \\u2013 Francis Dvornik, Czech priest and academic (d. 1975)\\n1895 \\u2013 Jack Gregory, Australian cricketer (d. 1973)\\n1895 \\u2013 Amaza Lee Meredith, American architect (d. 1984)\\n1896 \\u2013 Albert Ball, English fighter pilot (d. 1917)\\n1896   \\u2013 Theodor Luts, Estonian director and cinematographer (d. 1980)\\n1900 \\u2013 Margret Boveri, German journalist, recipient of the Order of Merit of the Federal Republic of Germany (d. 1975)\\n1901 \\u2013 Alice Rivaz, Swiss pianist and author (d. 1998)\\n1903 \\u2013 Lodewijk Bruckman, Dutch painter and illustrator (d. 1995)\\n1907 \\u2013 Skinnay Ennis, American bandleader and singer (d. 1963)\\n1910 \\u2013 Willy Ronis, French photographer (d. 2009)\\n1910   \\u2013 Pierre Schaeffer, French composer and producer (d. 1995)\\n1911 \\u2013 Jan Koetsier, Dutch composer and conductor (d. 2006)\\n1911   \\u2013 Vethathiri Maharishi, Indian spiritual leader, philosopher, and author (d. 2006)\\n1912 \\u2013 Frank Oppenheimer, American physicist and academic (d. 1985)\\n1913 \\u2013 Hector Crawford, Australian director and producer (d. 1991)\\n1913   \\u2013 Paul Dean, American baseball player (d. 1981)\\n1914 \\u2013 Herman Branson, African-American physicist, chemist, and academic (d. 1995)\\n1915 \\u2013 B. A. Santamaria, Australian political activist and publisher (d. 1998)\\n1916 \\u2013 Frank and John Craighead, American naturalists (twins, Frank d. 2001, John d. 2016)\\n1916   \\u2013 Fumio Fujimura, Japanese baseball player and manager (d. 1992)\\n1916   \\u2013 Wellington Mara, American businessman (d. 2005)\\n1918 \\u2013 Patsy Smart, English actress (d. 1996)\\n1922 \\u2013 Leslie Marr, English race car driver\\n1923 \\u2013 Patriarch Diodoros of Jerusalem (d. 2000)\\n1923   \\u2013 Alice Ghostley, American actress (d. 2007)\\n1924 \\u2013 Sverre Fehn, Norwegian architect, designed the Hedmark Museum (d. 2009)\\n1924   \\u2013 Holger Juul Hansen, Danish actor (d. 2013)\\n1924   \\u2013 Georges Pr\\u00eatre, French conductor (d. 2017)\\n1924   \\u2013 Rangjung Rigpe Dorje, 16th Karmapa, Tibetan spiritual leader (d. 1981)\\n1925 \\u2013 Russell Baker, American critic and essayist\\n1926 \\u2013 Ren\\u00e9 Goscinny, French author and illustrator (d. 1977)\\n1926   \\u2013 Buddy Greco, American singer and pianist (d. 2017)\\n1928 \\u2013 Lina Wertm\\u00fcller, Italian director and screenwriter\\n1929 \\u2013 Kinnaird R. McKee, American admiral (d. 2013)\\n1929   \\u2013 Gene Scott, American pastor and broadcaster (d. 2005)\\n1929   \\u2013 Dick Tiger, Nigerian boxer (d. 1971)\\n1930 \\u2013 Earl Weaver, American baseball player and manager (d. 2013)\\n1931 \\u2013 Frederic Raphael, American journalist, author, and screenwriter\\n1932 \\u2013 Lee Hoffman, American author (d. 2007)\\n1933 \\u2013 Richard R. Ernst, Swiss chemist and academic, Nobel Prize laureate\\n1935 \\u2013 John Brodie, American football player and golfer\\n1940 \\u2013 Darrell \\\"Dash\\\" Crofts, American singer-songwriter and musician\\n1940   \\u2013 Galen Hall, American football player and coach\\n1941 \\u2013 David Crosby, American singer-songwriter and guitarist\\n1941   \\u2013 Connie Smith, American country music singer-songwriter and guitarist\\n1941   \\u2013 Ernest Everett Just, African-American biologist and academic (d. 1941)\\n1942 \\u2013 Willie Dunn, Canadian singer-songwriter and producer (d. 2013)\\n1942   \\u2013 Lionel Morton, English singer-songwriter, guitarist and television presenter\\n1943 \\u2013 Ronnie Campbell, English miner and politician\\n1943   \\u2013 Ben Sidran, American jazz and rock keyboardist, producer, label owner, and music writer\\n1944 \\u2013 John Dunt, English admiral\\n1945 \\u2013 Steve Martin, American actor, comedian, musician, producer, and screenwriter\\n1945   \\u2013 Wim Wenders, German director, producer, and screenwriter\\n1946 \\u2013 Larry Graham, American soul/funk bass player and singer-songwriter\\n1946   \\u2013 Susan Saint James, American actress\\n1946   \\u2013 Tom Walkinshaw, Scottish race car driver and businessman (d. 2010)\\n1947 \\u2013 Bruce Nash, American director, producer, and screenwriter\\n1947   \\u2013 Maddy Prior, English folk singer\\n1947   \\u2013 Danielle Steel, American author\\n1947   \\u2013 Jiro Taniguchi, Japanese author and illustrator\\n1947   \\u2013 Joop van Daele, Dutch footballer and manager\\n1948 \\u2013 Terry Adams, American pianist and composer\\n1948   \\u2013 Bruce Thomas, English bass player and author\\n1949 \\u2013 Morten Olsen, Danish footballer and coach\\n1950 \\u2013 Gary Larson, American cartoonist\\n1951 \\u2013 Slim Dunlap, American singer-songwriter and guitarist\\n1951   \\u2013 Norbert Hofmann, German footballer and manager\\n1952 \\u2013 John McCutcheon, American folksinger\\n1952   \\u2013 Debbie Meyer, American swimmer\\n1953 \\u2013 James Horner, American composer and conductor (d. 2015)\\n1954 \\u2013 Mark Fidrych, American baseball player and sportscaster (d. 2009)\\n1954   \\u2013 Stanley A. McChrystal, American general\\n1956 \\u2013 Sharon Bryant, American R&B singer\\n1956   \\u2013 Jack\\u00e9e Harry, American actress and television personality\\n1956   \\u2013 Andy King, English footballer and manager (d. 2015)\\n1956   \\u2013 Rusty Wallace, American race car driver and sportscaster\\n1956   \\u2013 Erica Flapan, American mathematician\\n1957 \\u2013 Peter Costello, Australian lawyer and politician, 35th Treasurer of Australia\\n1958 \\u2013 Philip Dunne, English farmer and politician, Minister for Defence Equipment, Support and Technology\\n1958   \\u2013 Bobby Eaton, American wrestler and trainer\\n1959 \\u2013 Frank Brickowski, American basketball player\\n1959   \\u2013 Marcia Gay Harden, American actress\\n1959   \\u2013 Magic Johnson, American basketball player and coach\\n1960 \\u2013 Sarah Brightman, English singer-songwriter and actress\\n1960   \\u2013 Fred Roberts, American basketball player and educator\\n1961 \\u2013 Eddie Gilbert, American wrestler and manager (d. 1995)\\n1962 \\u2013 Mark Gubicza, American baseball player and sportscaster\\n1962   \\u2013 Kevin Harris, Canadian skateboarder\\n1962   \\u2013 Andres Herkel, Estonian academic and politician\\n1962   \\u2013 Rameez Raja, Pakistani cricketer and sportscaster\\n1963 \\u2013 Emmanuelle B\\u00e9art, French actress\\n1963   \\u2013 Jos\\u00e9 C\\u00f3ceres, Argentinian golfer\\n1964 \\u2013 Neal Anderson, American football player and coach\\n1964   \\u2013 Jason Dunstall, Australian footballer and sportscaster\\n1965 \\u2013 Brannon Braga, American producer, director, and screenwriter\\n1965   \\u2013 Paul Broadhurst, English golfer\\n1965   \\u2013 Terry Richardson, American photographer and director\\n1966 \\u2013 Halle Berry, American model, actress, and producer, Miss World United States 1986\\n1966   \\u2013 Karl Petter L\\u00f8ken, Swedish-Norwegian footballer and sportscaster\\n1966   \\u2013 Tuncay \\u00d6zkan, Turkish journalist and politician\\n1967 \\u2013 Erik Gandini, Italian-Swedish director, producer, and screenwriter\\n1968 \\u2013 Pravin Amre, Indian cricketer and coach\\n1968   \\u2013 Catherine Bell, English-American actress and producer\\n1968   \\u2013 Darren Clarke, Northern Irish golfer\\n1968   \\u2013 Jason Leonard, English rugby player\\n1968   \\u2013 Medy van der Laan, Dutch politician\\n1969 \\u2013 Tracy Caldwell Dyson, American chemist and astronaut\\n1969   \\u2013 Stig T\\u00f8fting, Danish footballer and manager\\n1970 \\u2013 Kevin Cadogan, American rock singer-songwriter, guitarist, and producer  (Third Eye Blind)\\n1971 \\u2013 Raoul Bova, Italian actor, producer, and screenwriter\\n1971   \\u2013 Mark Loretta, American baseball player and coach\\n1971   \\u2013 Pramodya Wickramasinghe, Sri Lankan cricketer\\n1972 \\u2013 Tamer El Said, Egyptian director, producer, and screenwriter\\n1972   \\u2013 Laurent Lamothe, Haitian businessman and politician, 15th Prime Minister of Haiti\\n1973 \\u2013 Jared Borgetti, Mexican footballer\\n1973   \\u2013 Jay-Jay Okocha, Nigerian footballer\\n1973   \\u2013 Kieren Perkins, Australian swimmer and sportscaster\\n1973   \\u2013 Paddy McGuinness, English comedian and television presenter\\n1974 \\u2013 Chucky Atkins, American basketball player and coach\\n1975 \\u2013 Mike Vrabel, American football player and coach\\n1976 \\u2013 Fabrizio Donato, Italian triple jumper\\n1977 \\u2013 Ed Harcourt, English singer-songwriter and producer\\n1977   \\u2013 Juan Pierre, American baseball player\\n1978 \\u2013 Randika Galhenage, Sri Lankan cricketer\\n1978   \\u2013 Anastasios Kyriakos, Greek footballer\\n1978   \\u2013 Greg Rawlinson, South African-New Zealand rugby player\\n1979 \\u2013 J\\u00e9r\\u00e9mie Br\\u00e9chet, French footballer\\n1979   \\u2013 Paul Burgess, Australian pole vaulter\\n1979   \\u2013 Y\\u014dichir\\u014d Morikawa, Japanese actor, director, and screenwriter\\n1980 \\u2013 Ayd\\u0131n Toscal\\u0131, Turkish footballer\\n1980   \\u2013 Roy Williams, American football player\\n1981 \\u2013 Earl Barron, American basketball player\\n1981   \\u2013 Matthew Etherington, English footballer\\n1981   \\u2013 Paul Gallen, Australian rugby league player\\n1981   \\u2013 Julius Jones, American football player\\n1981   \\u2013 Kofi Kingston, Ghanaian-American wrestler\\n1982 \\u2013 Simon Andrews, English motorcycle racer (d. 2014)\\n1983 \\u2013 Elena Baltacha, Ukrainian-Scottish tennis player (d. 2014)\\n1983   \\u2013 Mila Kunis, Ukrainian-born American actress\\n1983   \\u2013 Juan Oviedo, Dominican baseball player\\n1983   \\u2013 Spencer Pratt, American television personality\\n1983   \\u2013 Sunidhi Chauhan, Indian playback singer\\n1984   \\u2013 Eva Birnerov\\u00e1, Czech tennis player\\n1984   \\u2013 Clay Buchholz, American baseball player\\n1984   \\u2013 Giorgio Chiellini, Italian footballer\\n1984   \\u2013 Josh Gorges, Canadian ice hockey player\\n1984   \\u2013 Nick Grimshaw, English radio and television host\\n1984   \\u2013 Nicola Slater, Scottish tennis player\\n1984   \\u2013 Robin S\\u00f6derling, Swedish tennis player\\n1985 \\u2013 Christian Gentner, German footballer\\n1985   \\u2013 Shea Weber, Canadian ice hockey player\\n1986 \\u2013 Cameron Jerome, English footballer\\n1986   \\u2013 Sam Moa, Tongan-New Zealand rugby league player\\n1986   \\u2013 Braian Rodr\\u00edguez, Uruguayan footballer\\n1987 \\u2013 Tim Tebow, American football and baseball player, television personality and sportscaster\\n1989 \\u2013 Florian Abel, German footballer\\n1989   \\u2013 Ander Herrera, Spanish footballer\\n1989   \\u2013 Kyle Turris, Canadian ice hockey player\\n1991 \\u2013 Richard Freitag, German ski jumper\\n\\n\\n== Deaths ==\\n582 \\u2013 Tiberius II Constantine, Byzantine emperor (b. 535)\\n902 \\u2013 Badr al-Mu'tadidi, commander-in-chief of the Abbasid Caliphate under al-Mu'tadid\\n1040 \\u2013 Duncan I of Scotland (b. 1001)\\n1167 \\u2013 Rainald of Dassel, Italian archbishop (b. 1120)\\n1204 \\u2013 Minamoto no Yoriie, Japanese shogun (b. 1182)\\n1297 \\u2013 Frederick III, Burgrave of Nuremberg (b. c. 1220)\\n1319 \\u2013 Waldemar, Margrave of Brandenburg-Stendal (b. c. 1280)\\n1388 \\u2013 James Douglas, 2nd Earl of Douglas\\n1390 \\u2013 John FitzAlan, 2nd Baron Arundel, English soldier (b. 1364)\\n1433 \\u2013 John I of Portugal (b. 1357)\\n1464 \\u2013 Pope Pius II (b. 1405)\\n1573 \\u2013 Sait\\u014d Tatsuoki, Japanese daimyo (b. 1548)\\n1657 \\u2013 Giovanni Paolo Lascaris, 57th Grandmaster of the Knights Hospitaller (b. 1560)\\n1691 \\u2013 Richard Talbot, 1st Earl of Tyrconnell, Irish soldier and politician, Lord Lieutenant of Ireland (b. 1630)\\n1727 \\u2013 William Croft, English organist and composer (b. 1678)\\n1774 \\u2013 Johann Jakob Reiske, German physician and scholar (b. 1716)\\n1784 \\u2013 Nathaniel Hone the Elder, Irish-born English painter and academic (b. 1718)\\n1856 \\u2013 Constant Pr\\u00e9vost, French geologist and academic (b. 1787)\\n1860 \\u2013 Andr\\u00e9 Marie Constant Dum\\u00e9ril, French zoologist and entomologist (b. 1774)\\n1870 \\u2013 David Farragut, American admiral (b. 1801)\\n1874 \\u2013 Jonathan Clarkson Gibbs, American minister and politician (b. 1821)\\n1890 \\u2013 Michael J. McGivney, American priest, founded the Knights of Columbus (b. 1852)\\n1905 \\u2013 Simeon Solomon, English soldier and painter (b. 1840)\\n1909 \\u2013 William Stanley, American engineer and philanthropist (b. 1829)\\n1926 \\u2013 John H. Moffitt, American sergeant and politician, Medal of Honor recipient (b. 1843)\\n1928 \\u2013 Klabund, German author and poet (b. 1890)\\n1938 \\u2013 Hugh Trumble, Australian cricketer and accountant (b. 1876)\\n1941 \\u2013 Maximilian Kolbe, Polish martyr and saint (b. 1894)\\n1941   \\u2013 Paul Sabatier, French chemist and academic, Nobel Prize laureate (b. 1854)\\n1943 \\u2013 Lore Berger, Swiss author and translator (b. 1921)\\n1943   \\u2013 Joe Kelley, American baseball player and manager (b. 1871)\\n1951 \\u2013 William Randolph Hearst, American publisher and politician, founded the Hearst Corporation (b. 1863)\\n1954 \\u2013 Hugo Eckener, German pilot and designer (b. 1868)\\n1954   \\u2013 Nikos Ploumpidis, Greek activist (b. 1901)\\n1955 \\u2013 Herbert Putnam, American lawyer and publisher, Librarian of Congress (b. 1861)\\n1956 \\u2013 Bertolt Brecht, German poet, playwright, and director (b. 1898)\\n1958 \\u2013 Fr\\u00e9d\\u00e9ric Joliot-Curie, French physicist and chemist, Nobel Prize laureate (b. 1900)\\n1958   \\u2013 Konstantin von Neurath, German lawyer and politician, Reich Minister of Foreign Affairs (b. 1873)\\n1963 \\u2013 Clifford Odets, American director, playwright, and screenwriter (b. 1906)\\n1964 \\u2013 Johnny Burnette, American singer-songwriter (b. 1934)\\n1965 \\u2013 Vello Kaaristo, Estonian skier (b. 1911)\\n1966 \\u2013 Tip Snooke, South African cricketer (b. 1881)\\n1967 \\u2013 Bob Anderson, English motorcycle racer and race car driver (b. 1931)\\n1972 \\u2013 Oscar Levant, American actor, pianist, and composer (b. 1906)\\n1972   \\u2013 Jules Romains, French author and poet (b. 1885)\\n1973 \\u2013 Fred Gipson, American journalist and author (b. 1908)\\n1978 \\u2013 Nicolas Bentley, English author and illustrator (b. 1907)\\n1980 \\u2013 Dorothy Stratten, Canadian-American model and actress (b. 1960)\\n1981 \\u2013 Karl B\\u00f6hm, Austrian conductor and director (b. 1894)\\n1981   \\u2013 Dudley Nourse, South African cricketer (b. 1910)\\n1982 \\u2013 Mahasi Sayadaw, Burmese monk and philosopher (b. 1904)\\n1984 \\u2013 Spud Davis, American baseball player, coach, and manager (b. 1904)\\n1984   \\u2013 J. B. Priestley, English novelist and playwright (b. 1894)\\n1985 \\u2013 Gale Sondergaard, American actress (b. 1899)\\n1988 \\u2013 Roy Buchanan, American singer-songwriter and guitarist (b. 1939)\\n1988   \\u2013 Robert Calvert, South African-English singer-songwriter and playwright (b. 1945)\\n1988   \\u2013 Enzo Ferrari, Italian race car driver and businessman, founded Ferrari (b. 1898)\\n1989 \\u2013 Ricky Berry, American basketball player (b. 1964)\\n1991 \\u2013 Alberto Crespo, Argentinian race car driver (b. 1920)\\n1992 \\u2013 John Sirica, American lawyer and judge (b. 1904)\\n1994 \\u2013 Elias Canetti, Bulgarian-Swiss novelist, playwright, memoirist, Nobel Prize laureate (b. 1905)\\n1994   \\u2013 Alice Childress, American actress, playwright, and author (b. 1912)\\n1996 \\u2013 Sergiu Celibidache, Romanian conductor and composer (b. 1912)\\n1999 \\u2013 Pee Wee Reese, American baseball player and sportscaster (b. 1918)\\n2000 \\u2013 Alain Fournier, French-Canadian computer scientist and academic (b. 1943)\\n2002 \\u2013 Larry Rivers, American painter and sculptor (b. 1923)\\n2003 \\u2013 Helmut Rahn, German footballer (b. 1929)\\n2004 \\u2013 Czes\\u0142aw Mi\\u0142osz, Polish-born American novelist, essayist, and poet, Nobel Prize laureate (b. 1911)\\n2004   \\u2013 Trevor Skeet, New Zealand-English lawyer and politician (b. 1918)\\n2006 \\u2013 Adriaan de Groot, Dutch psychologist and chess player (b. 1914)\\n2006   \\u2013 Bruno Kirby, American actor (b. 1949)\\n2007 \\u2013 Pinchas Goldstein, Israeli politician (b. 1939)\\n2007   \\u2013 Tikhon Khrennikov, Russian pianist and composer (b. 1913)\\n2007   \\u2013 Kotozakura Masakatsu, Japanese sumo wrestler, the 53rd Yokozuna (b. 1940)\\n2010 \\u2013 Rallis Kopsidis, Greek painter and author (b. 1929)\\n2010   \\u2013 Herman Leonard, American soldier and photographer (b. 1923)\\n2011 \\u2013 Fritz Korbach, German footballer and manager (b. 1945)\\n2012 \\u2013 Maja Bo\\u0161kovi\\u0107-Stulli, Croatian historian and academic (b. 1922)\\n2012   \\u2013 Vilasrao Deshmukh, Indian lawyer and politician, 14th Chief Minister of Maharashtra (b. 1945)\\n2012   \\u2013 Svetozar Gligori\\u0107, Serbian chess player and theoretician (b. 1923)\\n2012   \\u2013 Sergey Kapitsa, English-Russian physicist and demographer (b. 1928)\\n2012   \\u2013 Phyllis Thaxter, American actress (b. 1919)\\n2013 \\u2013 Jack Garfinkel, American basketball player and coach (b. 1918)\\n2013   \\u2013 Jack Germond, American journalist and author (b. 1928)\\n2013   \\u2013 Paddy Power, Irish educator and politician, 22nd Irish Minister for Defence (b. 1928)\\n2014 \\u2013 Leonard Fein, American journalist and academic, co-founded Moment Magazine (b. 1934)\\n2014   \\u2013 George V. Hansen, American soldier and politician (b. 1930)\\n2015 \\u2013 Agust\\u00edn Cejas,  Argentinian footballer (b. 1945)\\n2015   \\u2013 Bob Farrell, American businessman, founded Farrell's Ice Cream Parlour (b. 1927)\\n2015   \\u2013 Bob Johnston, American songwriter and producer (b. 1932)\\n2016 \\u2013 Philip \\\"Fyuvsh\\\" Finkel, American actor (b. 1922)\\n\\n\\n== Holidays and observances ==\\nChristian feast day:\\nDomingo Ib\\u00e1\\u00f1ez de Erquicia\\nEusebius of Rome\\nJonathan Myrick Daniels (Episcopal Church)\\nKaj Munk (with Kolbe, Lutheran Church)\\nMartyrs of Otranto\\nMaximilian Kolbe\\nAugust 14 (Eastern Orthodox liturgics)\\nAnniversary Day (Tristan da Cunha)\\nCommemoration of Wadi al-Dahab (Morocco)\\nEngineer's Day (Dominican Republic)\\nDay of the Defenders of the Fatherland (Abkhazia) (state is not fully recognized)\\nIndependence Day, celebrates the day when Pakistan was declared a sovereign nation following the end of the British Raj in 1947.\\nPramuka Day (Indonesia)\\nFalklands Day\\n\\n\\n== References ==\\n\\n\\n== External links ==\\nBBC: On This Day\\n\\nThe New York Times: On This Day\\nOn This Day in Canada",
+                "langlinks": [{
+                    "lang": "ab",
+                    "*": "\\u041d\\u0430\\u043d\\u04b3\\u04d9\\u0430 14"
+                }, {
+                    "lang": "af",
+                    "*": "14 Augustus"
+                }, {
+                    "lang": "als",
+                    "*": "14. August"
+                }, {
+                    "lang": "am",
+                    "*": "14 August"
+                }, {
+                    "lang": "an",
+                    "*": "14 d'agosto"
+                }, {
+                    "lang": "ar",
+                    "*": "14 \\u0623\\u063a\\u0633\\u0637\\u0633"
+                }, {
+                    "lang": "arz",
+                    "*": "14 \\u0627\\u063a\\u0633\\u0637\\u0633"
+                }, {
+                    "lang": "as",
+                    "*": "\\u09e7\\u09ea \\u0986\\u0997\\u09b7\\u09cd\\u099f"
+                }, {
+                    "lang": "ast",
+                    "*": "14 d'agostu"
+                }, {
+                    "lang": "av",
+                    "*": "14 \\u0410\\u0432\\u0433\\u0443\\u0441\\u0442"
+                }, {
+                    "lang": "az",
+                    "*": "14 avqust"
+                }, {
+                    "lang": "azb",
+                    "*": "\\u06f1\\u06f4 \\u0622\\u0642\\u0648\\u0633\\u062a"
+                }, {
+                    "lang": "ba",
+                    "*": "14 \\u0430\\u0432\\u0433\\u0443\\u0441\\u0442"
+                }, {
+                    "lang": "bat-smg",
+                    "*": "Rogpj\\u016bt\\u0117 14"
+                }, {
+                    "lang": "bcl",
+                    "*": "Agosto 14"
+                }, {
+                    "lang": "be",
+                    "*": "14 \\u0436\\u043d\\u0456\\u045e\\u043d\\u044f"
+                }, {
+                    "lang": "be-x-old",
+                    "*": "14 \\u0436\\u043d\\u0456\\u045e\\u043d\\u044f"
+                }, {
+                    "lang": "bg",
+                    "*": "14 \\u0430\\u0432\\u0433\\u0443\\u0441\\u0442"
+                }, {
+                    "lang": "bh",
+                    "*": "14 \\u0905\\u0917\\u0938\\u094d\\u0924"
+                }, {
+                    "lang": "bn",
+                    "*": "\\u09e7\\u09ea \\u0986\\u0997\\u09b8\\u09cd\\u099f"
+                }, {
+                    "lang": "bpy",
+                    "*": "\\u0986\\u0997\\u09b7\\u09cd\\u099f \\u09e7\\u09ea"
+                }, {
+                    "lang": "br",
+                    "*": "14 Eost"
+                }, {
+                    "lang": "bs",
+                    "*": "14. august"
+                }, {
+                    "lang": "ca",
+                    "*": "14 d'agost"
+                }, {
+                    "lang": "cbk-zam",
+                    "*": "14 de Agosto"
+                }, {
+                    "lang": "cdo",
+                    "*": "8 ngu\\u014fk 14 h\\u00f4\\u0324"
+                }, {
+                    "lang": "ce",
+                    "*": "14 \\u0430\\u0432\\u0433\\u0443\\u0441\\u0442"
+                }, {
+                    "lang": "ceb",
+                    "*": "Agosto 14"
+                }, {
+                    "lang": "ckb",
+                    "*": "\\u0661\\u0664\\u06cc \\u0626\\u0627\\u0628"
+                }, {
+                    "lang": "co",
+                    "*": "14 d'aostu"
+                }, {
+                    "lang": "cs",
+                    "*": "14. srpen"
+                }, {
+                    "lang": "csb",
+                    "*": "14 z\\u00e9lnika"
+                }, {
+                    "lang": "cv",
+                    "*": "\\u00c7\\u0443\\u0440\\u043b\\u0430, 14"
+                }, {
+                    "lang": "cy",
+                    "*": "14 Awst"
+                }, {
+                    "lang": "da",
+                    "*": "14. august"
+                }, {
+                    "lang": "de",
+                    "*": "14. August"
+                }, {
+                    "lang": "diq",
+                    "*": "14 Tebaxe"
+                }, {
+                    "lang": "dv",
+                    "*": "\\u0787\\u07ae\\u078e\\u07a6\\u0790\\u07b0\\u0793\\u07aa 14"
+                }, {
+                    "lang": "el",
+                    "*": "14 \\u0391\\u03c5\\u03b3\\u03bf\\u03cd\\u03c3\\u03c4\\u03bf\\u03c5"
+                }, {
+                    "lang": "eml",
+                    "*": "14 d'ag\\u00f2st"
+                }, {
+                    "lang": "eo",
+                    "*": "14-a de a\\u016dgusto"
+                }, {
+                    "lang": "es",
+                    "*": "14 de agosto"
+                }, {
+                    "lang": "et",
+                    "*": "14. august"
+                }, {
+                    "lang": "eu",
+                    "*": "Abuztuaren 14"
+                }, {
+                    "lang": "ext",
+                    "*": "14 agostu"
+                }, {
+                    "lang": "fa",
+                    "*": "\\u06f1\\u06f4 \\u0627\\u0648\\u062a"
+                }, {
+                    "lang": "fi",
+                    "*": "14. elokuuta"
+                }, {
+                    "lang": "fiu-vro",
+                    "*": "14. p\\u00f5imukuu p\\u00e4iv"
+                }, {
+                    "lang": "fo",
+                    "*": "14. august"
+                }, {
+                    "lang": "fr",
+                    "*": "14 ao\\u00fbt"
+                }, {
+                    "lang": "frp",
+                    "*": "14 o\\u00fbt"
+                }, {
+                    "lang": "fur",
+                    "*": "14 di Avost"
+                }, {
+                    "lang": "fy",
+                    "*": "14 augustus"
+                }, {
+                    "lang": "ga",
+                    "*": "14 L\\u00fanasa"
+                }, {
+                    "lang": "gag",
+                    "*": "14 Harman ay"
+                }, {
+                    "lang": "gan",
+                    "*": "8\\u670814\\u865f"
+                }, {
+                    "lang": "gd",
+                    "*": "14 an L\\u00f9nastal"
+                }, {
+                    "lang": "gl",
+                    "*": "14 de agosto"
+                }, {
+                    "lang": "gor",
+                    "*": "14 Agustus"
+                }, {
+                    "lang": "gu",
+                    "*": "\\u0a93\\u0a97\\u0ab8\\u0acd\\u0a9f \\u0ae7\\u0aea"
+                }, {
+                    "lang": "gv",
+                    "*": "14 Luanistyn"
+                }, {
+                    "lang": "hak",
+                    "*": "8-ngie\\u030dt 14-ngit"
+                }, {
+                    "lang": "he",
+                    "*": "14 \\u05d1\\u05d0\\u05d5\\u05d2\\u05d5\\u05e1\\u05d8"
+                }, {
+                    "lang": "hi",
+                    "*": "\\u0967\\u096a \\u0905\\u0917\\u0938\\u094d\\u0924"
+                }, {
+                    "lang": "hif",
+                    "*": "14 August"
+                }, {
+                    "lang": "hr",
+                    "*": "14. kolovoza"
+                }, {
+                    "lang": "hsb",
+                    "*": "14. awgusta"
+                }, {
+                    "lang": "ht",
+                    "*": "14 out"
+                }, {
+                    "lang": "hu",
+                    "*": "Augusztus 14."
+                }, {
+                    "lang": "hy",
+                    "*": "\\u0555\\u0563\\u0578\\u057d\\u057f\\u0578\\u057d\\u056b 14"
+                }, {
+                    "lang": "ia",
+                    "*": "14 de augusto"
+                }, {
+                    "lang": "id",
+                    "*": "14 Agustus"
+                }, {
+                    "lang": "ie",
+                    "*": "14 august"
+                }, {
+                    "lang": "ig",
+                    "*": "14 \\u1eccg\\u1ecd\\u1ecdst"
+                }, {
+                    "lang": "ilo",
+                    "*": "Agosto 14"
+                }, {
+                    "lang": "io",
+                    "*": "14ma di agosto"
+                }, {
+                    "lang": "is",
+                    "*": "14. \\u00e1g\\u00fast"
+                }, {
+                    "lang": "it",
+                    "*": "14 agosto"
+                }, {
+                    "lang": "ja",
+                    "*": "8\\u670814\\u65e5"
+                }, {
+                    "lang": "jv",
+                    "*": "14 Agustus"
+                }, {
+                    "lang": "ka",
+                    "*": "14 \\u10d0\\u10d2\\u10d5\\u10d8\\u10e1\\u10e2\\u10dd"
+                }, {
+                    "lang": "kk",
+                    "*": "14 \\u0442\\u0430\\u043c\\u044b\\u0437"
+                }, {
+                    "lang": "kl",
+                    "*": "Aggusti 14"
+                }, {
+                    "lang": "kn",
+                    "*": "\\u0c86\\u0c97\\u0cb8\\u0ccd\\u0c9f\\u0ccd \\u0ce7\\u0cea"
+                }, {
+                    "lang": "ko",
+                    "*": "8\\uc6d4 14\\uc77c"
+                }, {
+                    "lang": "ku",
+                    "*": "14'\\u00ea gelaw\\u00eaj\\u00ea"
+                }, {
+                    "lang": "kv",
+                    "*": "\\u041c\\u043e\\u0437 \\u0442\\u04e7\\u043b\\u044b\\u0441\\u044c 14-\\u04e7\\u0434 \\u043b\\u0443\\u043d"
+                }, {
+                    "lang": "ky",
+                    "*": "14-\\u0430\\u0432\\u0433\\u0443\\u0441\\u0442"
+                }, {
+                    "lang": "la",
+                    "*": "14 Augusti"
+                }, {
+                    "lang": "lb",
+                    "*": "14. August"
+                }, {
+                    "lang": "li",
+                    "*": "14 augustus"
+                }, {
+                    "lang": "lmo",
+                    "*": "14 08"
+                }, {
+                    "lang": "lo",
+                    "*": "14 \\u0eaa\\u0eb4\\u0e87\\u0eab\\u0eb2"
+                }, {
+                    "lang": "lt",
+                    "*": "Rugpj\\u016b\\u010dio 14"
+                }, {
+                    "lang": "lv",
+                    "*": "14. augusts"
+                }, {
+                    "lang": "mai",
+                    "*": "\\u0967\\u096a \\u0905\\u0917\\u0938\\u094d\\u0924"
+                }, {
+                    "lang": "mg",
+                    "*": "14 Aogositra"
+                }, {
+                    "lang": "mhr",
+                    "*": "14 \\u0441\\u043e\\u0440\\u043b\\u0430"
+                }, {
+                    "lang": "mk",
+                    "*": "14 \\u0430\\u0432\\u0433\\u0443\\u0441\\u0442"
+                }, {
+                    "lang": "ml",
+                    "*": "\\u0d13\\u0d17\\u0d38\\u0d4d\\u0d31\\u0d4d\\u0d31\\u0d4d 14"
+                }, {
+                    "lang": "mn",
+                    "*": "8 \\u0441\\u0430\\u0440\\u044b\\u043d 14"
+                }, {
+                    "lang": "mr",
+                    "*": "\\u0911\\u0917\\u0938\\u094d\\u091f \\u0967\\u096a"
+                }, {
+                    "lang": "ms",
+                    "*": "14 Ogos"
+                }, {
+                    "lang": "my",
+                    "*": "\\u1041\\u1044 \\u1029\\u1002\\u102f\\u1010\\u103a"
+                }, {
+                    "lang": "myv",
+                    "*": "\\u0423\\u043c\\u0430\\u0440\\u044c\\u043a\\u043e\\u0432\\u043e\\u043d\\u044c 14 \\u0447\\u0438"
+                }, {
+                    "lang": "nah",
+                    "*": "Tlachicu\\u0113iti 14"
+                }, {
+                    "lang": "nap",
+                    "*": "14 'e a\\u00f9sto"
+                }, {
+                    "lang": "nds",
+                    "*": "14. August"
+                }, {
+                    "lang": "nds-nl",
+                    "*": "14 augustus"
+                }, {
+                    "lang": "ne",
+                    "*": "\\u0967\\u096a \\u0905\\u0917\\u0938\\u094d\\u091f"
+                }, {
+                    "lang": "new",
+                    "*": "\\u0905\\u0917\\u0938\\u094d\\u091f \\u0967\\u096a"
+                }, {
+                    "lang": "nl",
+                    "*": "14 augustus"
+                }, {
+                    "lang": "nn",
+                    "*": "14. august"
+                }, {
+                    "lang": "no",
+                    "*": "14. august"
+                }, {
+                    "lang": "nrm",
+                    "*": "14 Ao\\u00fbt"
+                }, {
+                    "lang": "nso",
+                    "*": "Phato 14"
+                }, {
+                    "lang": "oc",
+                    "*": "14 d'agost"
+                }, {
+                    "lang": "olo",
+                    "*": "14. elokuudu"
+                }, {
+                    "lang": "or",
+                    "*": "\\u0b67\\u0b6a \\u0b05\\u0b17\\u0b37\\u0b4d\\u0b1f"
+                }, {
+                    "lang": "pa",
+                    "*": "14 \\u0a05\\u0a17\\u0a38\\u0a24"
+                }, {
+                    "lang": "pag",
+                    "*": "August 14"
+                }, {
+                    "lang": "pam",
+                    "*": "Agostu 14"
+                }, {
+                    "lang": "pl",
+                    "*": "14 sierpnia"
+                }, {
+                    "lang": "pnb",
+                    "*": "14 \\u0627\\u06af\\u0633\\u062a"
+                }, {
+                    "lang": "ps",
+                    "*": "14 \\u0627\\u06af\\u0633\\u067c"
+                }, {
+                    "lang": "pt",
+                    "*": "14 de agosto"
+                }, {
+                    "lang": "qu",
+                    "*": "14 \\u00f1iqin chakra yapuy killapi"
+                }, {
+                    "lang": "ro",
+                    "*": "14 august"
+                }, {
+                    "lang": "ru",
+                    "*": "14 \\u0430\\u0432\\u0433\\u0443\\u0441\\u0442\\u0430"
+                }, {
+                    "lang": "rue",
+                    "*": "14. \\u0430\\u0432\\u0491\\u0443\\u0441\\u0442"
+                }, {
+                    "lang": "sa",
+                    "*": "\\u0967\\u096a \\u0905\\u0917\\u0938\\u094d\\u0924"
+                }, {
+                    "lang": "sah",
+                    "*": "\\u0410\\u0442\\u044b\\u0440\\u0434\\u044c\\u0430\\u0445 \\u044b\\u0439\\u044b\\u043d 14"
+                }, {
+                    "lang": "scn",
+                    "*": "14 di austu"
+                }, {
+                    "lang": "sco",
+                    "*": "14 August"
+                }, {
+                    "lang": "sd",
+                    "*": "14 \\u0622\\u06af\\u0633\\u067d"
+                }, {
+                    "lang": "se",
+                    "*": "Borgem\\u00e1nu 14."
+                }, {
+                    "lang": "sh",
+                    "*": "14. 8."
+                }, {
+                    "lang": "si",
+                    "*": "\\u0d85\\u0d9c\\u0ddd\\u0dc3\\u0dca\\u0dad\\u0dd4 14"
+                }, {
+                    "lang": "simple",
+                    "*": "August 14"
+                }, {
+                    "lang": "sk",
+                    "*": "14. august"
+                }, {
+                    "lang": "sl",
+                    "*": "14. avgust"
+                }, {
+                    "lang": "sq",
+                    "*": "14 Gusht"
+                }, {
+                    "lang": "sr",
+                    "*": "14. \\u0430\\u0432\\u0433\\u0443\\u0441\\u0442"
+                }, {
+                    "lang": "stq",
+                    "*": "14. August"
+                }, {
+                    "lang": "su",
+                    "*": "14 Agustus"
+                }, {
+                    "lang": "sv",
+                    "*": "14 augusti"
+                }, {
+                    "lang": "sw",
+                    "*": "14 Agosti"
+                }, {
+                    "lang": "ta",
+                    "*": "\\u0b86\\u0b95\\u0ba4\\u0bcd\\u0ba4\\u0bc1 14"
+                }, {
+                    "lang": "te",
+                    "*": "\\u0c06\\u0c17\\u0c37\\u0c4d\\u0c1f\\u0c41 14"
+                }, {
+                    "lang": "tg",
+                    "*": "14 \\u0430\\u0432\\u0433\\u0443\\u0441\\u0442"
+                }, {
+                    "lang": "th",
+                    "*": "14 \\u0e2a\\u0e34\\u0e07\\u0e2b\\u0e32\\u0e04\\u0e21"
+                }, {
+                    "lang": "tk",
+                    "*": "14 awgust"
+                }, {
+                    "lang": "tl",
+                    "*": "Agosto 14"
+                }, {
+                    "lang": "tr",
+                    "*": "14 A\\u011fustos"
+                }, {
+                    "lang": "tt",
+                    "*": "14 \\u0430\\u0432\\u0433\\u0443\\u0441\\u0442"
+                }, {
+                    "lang": "uk",
+                    "*": "14 \\u0441\\u0435\\u0440\\u043f\\u043d\\u044f"
+                }, {
+                    "lang": "ur",
+                    "*": "14 \\u0627\\u06af\\u0633\\u062a"
+                }, {
+                    "lang": "uz",
+                    "*": "14-avgust"
+                }, {
+                    "lang": "vec",
+                    "*": "14 de agosto"
+                }, {
+                    "lang": "vi",
+                    "*": "14 th\\u00e1ng 8"
+                }, {
+                    "lang": "vls",
+                    "*": "14 ogustus"
+                }, {
+                    "lang": "vo",
+                    "*": "Gustul 14"
+                }, {
+                    "lang": "wa",
+                    "*": "14 d' awousse"
+                }, {
+                    "lang": "war",
+                    "*": "Agosto 14"
+                }, {
+                    "lang": "wuu",
+                    "*": "8\\u670814\\u53f7"
+                }, {
+                    "lang": "xal",
+                    "*": "\\u041d\\u043e\\u0445\\u0430 \\u0441\\u0430\\u0440\\u0438\\u043d 14"
+                }, {
+                    "lang": "xmf",
+                    "*": "14 \\u10db\\u10d0\\u10e0\\u10d0\\u10e8\\u10d8\\u10dc\\u10d0\\u10d7\\u10e3\\u10d7\\u10d0"
+                }, {
+                    "lang": "yi",
+                    "*": "14\\u05d8\\u05df \\u05d0\\u05d5\\u05d9\\u05d2\\u05d5\\u05e1\\u05d8"
+                }, {
+                    "lang": "yo",
+                    "*": "14 August"
+                }, {
+                    "lang": "zh",
+                    "*": "8\\u670814\\u65e5"
+                }, {
+                    "lang": "zh-min-nan",
+                    "*": "8 goe\\u030dh 14 ji\\u030dt"
+                }, {
+                    "lang": "zh-yue",
+                    "*": "8\\u670814\\u865f"
+                }]
+            }
+        }
+    }
+}

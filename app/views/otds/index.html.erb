@@ -1,7 +1,28 @@
-<p id="notice"><%= notice %></p>
+<% if @interestings %>
+<h1><%=@interestings.title%></h1>
+<h2><%=@interestings.summary%></h2>
+<hr />
 
-<h1><%= @wiki_fact.title %> Interesting Facts:</h1>
+<h3>Events</h3>
 
-<% @wiki_events.each do |event|%>
-  <p> <%= event %> </p>
+<%organize_page_content(convertPageText(@interestings.text), "Events").each do |interesting|%>
+    <%=interesting%><br/>
+  <% end %>
+
+
+
+<h3>Births</h3>
+
+  <%organize_page_content(convertPageText(@interestings.text), "Births").each do |interesting|%>
+    <%=interesting%><br/>
+  <% end %>
+
+
+
+<h3>Holidays</h3>
+
+  <%organize_page_content(convertPageText(@interestings.text), "Holidays and observances").each do |interesting|%>
+    <%=interesting%><br/>
+  <% end %>
+
 <% end %>
