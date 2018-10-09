@@ -1,20 +1,28 @@
-<h1><%= @wiki_fact.title %> Interesting Facts:</h1>
+<% if @interestings %>
+<h1><%=@interestings.title%></h1>
+<h2><%=@interestings.summary%></h2>
+<hr />
 
-<%= @wiki_fact.summary%>
+<h3>Events</h3>
 
-<hr/>
+  <%organize_page_content(convertPageText(@interestings.text), "Events").each do |interesting|%>
+    <%=interesting%><br/>
+  <% end %>
 
-<h2> Events </h2>
-<%  @facts_of_the_day_events.each do |event|%>
-  <p> <%= event %> </p>
-<% end %>
 
-<h2> Births </h2>
-<%  @facts_of_the_day_births.each do |birth|%>
-  <p> <%= birth %> </p>
-<% end %>
 
-<h2> Holidays and observances </h2>
-<%  @facts_of_the_day_holidays.each do |holiday|%>
-  <p> <%= holiday %> </p>
+<h3>Births</h3>
+
+  <%organize_page_content(convertPageText(@interestings.text), "Births").each do |interesting|%>
+    <%=interesting%><br/>
+  <% end %>
+
+
+
+<h3>Holidays</h3>
+
+  <%organize_page_content(convertPageText(@interestings.text), "Holidays and observances").each do |interesting|%>
+    <%=interesting%><br/>
+  <% end %>
+
 <% end %>
