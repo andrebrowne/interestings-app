@@ -18,7 +18,7 @@ RSpec.describe WikipediaPageHelper, type: :helper do
         end
 
         it "returns the data for the current day" do
-            expect(helper.getOnThisDayInterestings().title).to eq(DateTime.now.strftime("%B %e"))
+            expect(helper.getOnThisDayInterestings().title).to eq(DateTime.now.strftime("%B %-d"))
         end
 
         pending "write test that checks for successful API call"
